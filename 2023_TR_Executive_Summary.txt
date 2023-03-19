@@ -1,0 +1,4444 @@
+2023
+
+2023 Tech Trends Report Executive Summary
+
+THIS YEAR REQUIRES FOCUS
+In August 2017, a rare explosive event known
+as GW17817 took place in space. Two stars
+collided, unleashing a blast energetic enough
+to form an incalculable number of new stellar
+bits that continue to travel through interstellar
+space. Over time, this stardust will combine into
+small objects, evolve into large rocks, fuse with
+even more material, and form into planets. One
+incredibly violent disruption will someday lead
+to the formation of a new corner of the universe.
+This is how our own sun and Earth, and all of
+human existence, came into being.
+Lately it’s as if we’ve been living through the
+aftermath of cataclysmic explosions: the
+release of generative artificial intelligence
+systems like ChatGPT and Midjourney, a fusion
+breakthrough that could someday generate
+zero-carbon energy, Russia’s ongoing invasion
+into Ukraine, deep uncertainty about a global
+recession, and AlphaFold’s protein-folding algorithms that predicted structures for nearly all
+cataloged proteins known to science, to name
+a few. These and other forces of change are
+colliding, going supernovae, and resulting in an
+unfathomable amount of new signals—bits of
+change that, over time, result in the trends that
+shape society.
+
+2
+
+Now more than ever, it’s important to carefully
+track new trends as they emerge. But that isn’t
+easy, given the rapid pace of change. For that
+reason, the theme of our 2023 Tech Trends report
+is Focus. It is crucial to focus when new signals
+are forming because some may be lasting and
+develop into impactful trends, while others might
+burn out and fade away. In an increasingly complex and fast-paced world, leaders who focus
+on the trends that matter and adapt to changing
+circumstances make better decisions and see
+improved outcomes. Trends enable them to anticipate near-term change, understand the factors
+influencing their industries, and develop a point of
+view on the future.
+Our research is presented in 14 in-depth reports
+that reveal the current state of play, a list of influencers to watch, key trends, detailed examples,
+expert perspectives and recommendations designed to help executives and their teams develop their strategic positioning. Some of the trends
+are new advancements on mature technologies,
+while others represent frontier technologies and
+areas of science. When we look at them collectively, new centers of gravity come into focus, and
+we can glimpse the impacts they will have on
+every sector.
+
+Trends on their own cannot predict the future.
+Rather, future-focused organizations use them to
+deeply reflect on the tension between long-term
+and short-term goals and to reduce uncertainty.
+By understanding the trends and changes shaping the landscape, executives can make informed
+decisions and capitalize on new opportunities in
+the year ahead.
+We invite you to join us in observing how the stardust settles into new signals and trends.
+Share your feedback with us at
+2023trends@futuretodayinstitute.com.
+
+Amy Webb
+Chief Executive Officer
+Future Today Institute
+
+© 2023 Future Today Institute
+
+2023
+
+2023 Tech Trends Report Executive Summary
+
+IMPACT OF TRENDS ON YOUR INDUSTRY
+AI
+
+Generative AI
+
+Climate and
+Green Tech
+
+Mobility
+
+Near-Term Relevance
+
+AR/ VR/ XR and
+Synthetic Media
+
+Robots and
+Drones
+
+Web3
+Infrastructure
+
+Long-Term Relevance
+Bioengineering
+
+Metaverse
+
+Quantum
+
+Agriculture
+Automotive
+Aviation and Travel
+Construction, Engineering
+Consumer Packaged Goods
+Education
+Financial Services
+Government and Policy
+Health Care Systems and Services
+Hospitality
+Media (Entertainment)
+Media (News)
+Pharmaceutical and Medical Products
+Public and Social Sectors
+Real Estate
+Restaurants
+Retail
+Space and Aerospace Defense
+Supply Chain and Logistics
+
+Telecommunications
+
+3
+
+© 2023 Future Today Institute
+
+TECH
+
+Artificial Intelligence
+
+AI TRENDS SUMMARY
+AI is a force
+multiplier on
+technological
+progress because
+it is an enabler of
+other technologies
+and powers
+the evolution
+of business,
+government, and
+society.
+
+Key Insights for 2023
+We have entered the “text-to-everything” era.
+Soon, we will use natural language to operate
+and interact with computers rather than graphic
+user interfaces (GUIs).
+We expect to see increased activity in the
+specialized AI accelerators space this year.
+Watch the UK’s Graphcore, which built a new
+type of processor for machine intelligence to
+accelerate machine learning and AI applications,
+and Cerebras, which built one of the fastest AI
+accelerators based on the largest processor in
+the industry, as well as AWS Inferentia accelerators. Will Nvidia’s GPU/AI accelerator moat get
+disrupted this year?
+It’s possible for agents to learn the right skills
+but the wrong objectives; an AI system can
+be asked to learn something that then could
+be used for harmful purposes. Commercial AI
+products could inadvertently incentivize bad
+behavior.
+GENERATIVE AI
+
+If the 2010s were known for perception AI—systems that sensed signals such as images and
+text—to understand the world around us, the
+
+5
+
+2020s will be known for generative AI. These
+systems not only sense and understand the
+world but can also generate new content, concepts, and ideas while communicating with us.
+AI is emerging as an assistant for all knowledge
+workers. Within the next 18-24 months, we will
+see assistive technology developed for a variety
+of professions. Think: GitHub’s Copilot for financial analysts, commercial real estate developers,
+and lawyers.
+In the next 18-24 months, generative AI will
+be incorporated into consumer applications.
+Already, Canva, the popular online graphic
+design tool, has integrated Stable Diffusion in its
+platform. Microsoft has incorporated OpenAI’s
+DALL-E 2 image-generating system into its Microsoft Designer and Image Creator applications,
+which is a big upgrade to clip art. Google’s Bard
+includes an API to encourage developers to
+start building new products. Notion, the freemium productivity and note-taking web application, uses LLMs for assistive writing.
+General-purpose models will be commoditized
+in the near-future. This will lead to large language model (LLM) features being integrated
+into every app. The first players to succeed in
+the space will likely be creative apps, and all of
+them will have LLMs as a backbone to inspire
+
+and augment human creativity.
+Vertically integrated solutions will garner a
+higher transactional value. Some companies
+will win by providing “a refined/value-added
+LLM product” to the end consumer and meeting
+the customer in desired distribution channels,
+such as LLMs for health care, legal, finance, and
+architecture.
+In the next 12-18 months, watch for the proliferation of large-scale open-source models and
+tools including Stable Diffusion and HuggingFace.
+Publicly available LLMs are often the foundation for AI startups, but some researchers and
+technologists are questioning their defensibility
+when it comes to capturing value. The moat is
+in data. Techniques and models will largely get
+commoditized, and served via the infrastructure
+layer, where real value will be realized.
+Long-term sustainability depends on network
+effects to gather enough user data. User-generated data can be harnessed to differentiate
+systems by offering tuned models on top of
+foundational/commoditized LLMs, creating a
+flywheel effect. Longer term, we expect to see
+niche LLMs owned by a select few players, while
+general-purpose LLMs become commoditized.
+
+© 2023 Future Today Institute
+
+TECH
+
+Artificial Intelligence
+
+AI TRENDS SUMMARY
+At the infrastructure layer, we anticipate a variety of generative AI services built to better serve
+a variety of applications. In addition to OpenAI,
+specialized players are entering the market,
+including AI21, Cohere, Snorkel.AI, and Scale.AI.
+ENTERPRISE
+
+Top talent will start breaking away from the
+largest players—Google, OpenAI, Meta—to form
+their own startups, which will include conversational agents, artificial general intelligence programs, AI-first biotech companies, and the like.
+Consolidation will continue to be a driving
+theme in 2023. Here’s just one example: Microsoft plans to increase its investment in and
+leverage OpenAI for Bing to pull market share
+away from Google search.
+Google’s powerful ChatGPT rival, Bard, uses an
+AI model called LaMDA. Launched February
+2023, could catalyze a new race for conversational search.
+We anticipate increased enterprise adoption of
+AI. Leaders see AI as necessary for growth in
+the current macroeconomic environment, even
+as new developments make some job categories obsolete.
+
+6
+
+AUTOMATION
+
+REGULATION AND GEOPOLITICS
+
+AI coding assistants will grow in popularity.
+OpenAI’s Codex, introduced in 2021, evolved
+from research to open commercialization by
+the middle of last year. GitHub CoPilot is now
+available as a subscription ($10 per month). As
+of January, Amazon’s CodeWhisperer is available
+in preview. Internally, Google is using a machine
+language–powered code completion tool—it
+may at some point be made available to everyday users, possibly this year.
+
+Will this be the year the government breaks up
+Big Tech? US lawmakers have begun work to
+decouple Google’s ad business from the rest of
+the organization. In the European Union, powerful new regulations of tech platforms could go
+into effect. In China, regulators have eased up
+slightly on Big Tech crackdowns—but the Chinese Communist Party is intent on focusing new
+R&D toward servicing the country’s long-term
+growth ambitions.
+
+We expect to see AI more deeply integrated
+into health care and life sciences later this year.
+Generative AI will yield new proteins, antibodies,
+and drugs, while biology and chemistry-specific
+models will result in faster discovery, further
+providing practical use cases and leading to
+increased investment.
+Could 2023 mark the beginning of the end of
+human radiologists? Lithuania-based Oxipit, an
+AI-first medical imaging startup, built an autonomous system that reports on chest X-rays that
+show no abnormalities. The technology is good
+enough that it received state-level certification
+to operate independently, without a radiologist
+in the loop.
+
+© 2023 Future Today Institute
+
+TECH
+
+HOW TO PREPARE
+Artificial intelligence
+should be part of
+every strategic plan,
+as it crosses multiple
+dimensions, from
+workforce automation,
+to digital transformation,
+to everyday business
+processes and
+business intelligence.
+It is imperative that
+executives and senior
+managers understand
+what AI is, what it is not,
+and what strategic value
+it adds to the business.
+
+7
+
+Artificial Intelligence
+
+What should your organization do now to prepare for these trends?
+As no-code and low-code applications become more widely available, Future Today
+Institute analysis shows that innovation
+teams will be in position to build powerful
+systems for decision management, business intelligence, and product ideation.
+Generative AIs will improve an organization’s efficiency and enhance creativity,
+leading to hybrid human-machine creative
+teams. AI-assisted design will dramatically
+increase the number of prototypes that can
+be automatically generated with prompts.
+We recommend that chief strategy officers
+in every field develop a solid understanding
+of AI to engage more closely with others in
+the C-suite to develop a cohesive point of
+view on digitalization, augmentation and
+automation—as well as to develop strategic plans. Importantly, businesses should
+keep abreast of emerging regulations that
+could restrict the use of consumer data,
+
+algorithms, or generative AI systems. Risk
+models should be developed to determine
+plausible near-futures, so that leaders can
+adjust their strategies accordingly.
+When it comes to talent and workforce
+development, the need for highly skilled
+people is fast outpacing the graduation rate
+of universities. This might lead to a shift in
+higher education: It’s plausible that companies in search of AI specialists might opt for
+modular certifications, which can be earned
+faster than traditional four-year degrees.
+Talent sourcing and retention will continue
+to pose challenges for tech companies—
+and for organizations in other industries
+that need a trained workforce but may not
+be able to provide the same perks as the
+hottest AI players.
+
+cies, better tracking, business intelligence,
+and assistance with decision-making. As
+training costs decline, more applications
+will be built. Spending on AI systems and
+hardware is likely to explode this decade,
+creating significant enterprise value overall.
+
+In nearly every industry, AI will serve as a
+force multiplier for growth, bringing efficien-
+
+© 2023 Future Today Institute
+
+TECH
+
+Artificial Intelligence
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+How do these
+trends change
+our perspective
+on our current AI
+investment and
+capabilities?
+
+2
+Is our organization
+positioned to
+leverage AI for
+growth, in addition
+to realizing new
+efficiencies?
+
+3
+When we engage in
+long-term strategic
+planning, how does
+the evolution of AI
+factor in?
+
+4
+Are we adequately
+preparing our
+workforce to
+succeed in a
+world in which
+their knowledge
+tasks might be
+augmented or fully
+automated by AI?
+
+5
+What is our process
+to vet, verify
+and monitor our
+vendors?
+Is the AI we’re using
+explainable?
+If not, does that
+open us up to
+additional risk?
+
+6
+Does our team
+have an expansive
+enough viewpoint
+on emerging
+threats and attack
+surfaces?
+
+7
+What parts of our
+business make us
+vulnerable as AI
+evolves?
+
+9
+If proposed
+antitrust legislation
+passes in the US
+and the EU further
+regulates Big
+Tech companies,
+how does this
+create a strategic
+opportunity for our
+organization?
+
+8
+What is our point
+of view on the use
+of generative AI
+systems?
+
+10
+How might we
+develop the
+knowledge,
+experience, and
+talent in place to
+leverage these AI
+trends?
+
+Or, what might our
+organization lose?
+
+8
+
+© 2023 Future Today Institute
+
+TECH
+
+Web3
+
+WEB3 TRENDS SUMMARY
+A trustless and
+decentralized web
+holds significant
+benefits for
+consumers and
+businesses and will
+enable them to
+engage seamlessly.
+
+Key Insights for 2023
+Security is top of mind for those invested in Web
+3.0. Cybersecurity breaches across 2021 and
+2022 exposed nascent Web 3.0 systems’ weaknesses, which platforms will need to address to
+ensure Web 3.0 is reliable and scalable.
+Efforts are emerging to use Web 3.0 capabilities
+for public good. From tracking environmental sustainability, to improving access to food,
+and archiving items of historical importance,
+emerging blockchain solutions go beyond art
+exchanges and decentralized currency to try to
+solve some of the world’s most pressing problems.
+Proof of work consensus mechanisms were the
+cornerstone of early blockchain protocols, but
+proof of stake is rapidly emerging as the leading consensus tool because of its efficiency,
+reduced need for computing power, and less
+onerous environmental impact.
+Tracking the origin and ownership of items, content, data, and assets continues to be the predominant use of blockchain, but the technology
+is expanding beyond its initial focus on NFTs
+(non-fungible tokens) to include personal data,
+virtual representations of real-world assets, and
+other types of data.
+
+10
+
+Health care, food, supply chain, journalism,
+and energy are some of the industries that will
+see Web 3.0 uses expand and new capabilities
+emerge in the coming year.
+Digital identity is a key area of development in
+the Web 3.0 landscape. For Web 3.0 to function,
+individuals will require methods of identification
+and ways to validate transactions, but the tools
+to do so are still inchoate.
+Regulation of Web 3.0 technologies is being developed in a variety of countries. Organizations
+that provide or use Web 3.0 capabilities will
+need to remain informed about these regulations to ensure they are in compliance.
+Web 3.0 is changing the way individuals interact
+globally. While governments are mostly shaping
+regulations today, large communities are already
+beginning to form in Web 3.0 that have a comparable level of economic power. Regulations
+that do not take into account the borderless
+nature of Web 3.0 may be difficult to apply in
+real-world settings.
+
+© 2023 Future Today Institute
+
+TECH
+
+HOW TO PREPARE
+Web3 describes a nascent
+collection of technologies
+that will continue to
+develop and mature over
+the next several decades.
+For many, Web3 feels speculative, and thus
+not a candidate for deep investment. However, Web3 technologies and those that
+enable it, including artificial intelligence,
+advanced network connectivity, and user
+applications, are evolving rapidly. Organizations taking steps to prepare will be
+positioned to respond as the technology
+does scale, by connecting it with their value
+propositions and improving their market
+offerings.
+There are parallel lessons from Web 1.0. The
+applications we see today were unimaginable to most at one time, because the
+software and hardware had not yet sufficiently advanced. Those organizations that
+
+11
+
+Web3
+
+What should your organization do now to prepare for these trends?
+closely tracked its development, however,
+and grew with the technology, were well
+equipped to pounce when the technology
+scaled (think: Amazon or Nintendo).
+
+Businesses are advised to prepare for Web3
+as they would for any other transformational
+technology:
+
+Over the next five to 10 years, Web3 will enable a growing number of applications for
+governmental, corporate, and consumer use
+that extend well beyond financial or marketing applications. Nearly every company
+and industry has the potential to be revolutionized by Web3 technology. So, leaders
+need to think differently about not only how
+they deliver their products but also the type
+of service and offerings their stakeholders
+now value.
+
+Develop a basic understanding of blockchain technology and its history. Create a
+point of view for your organization on the
+definitions of Web3 and the metaverse, and
+the differences between them. Follow a few
+key players in the space. Buy some cryptocurrency, even if only for the experience of
+having a crypto wallet.
+
+Organizations will need to confront unfamiliar technologies, develop new pipelines
+for talent, and align their products to suit
+this new paradigm. The majority of organizations will be impacted at the Layer 3 level
+as their offerings and distribution channels
+become disintermediated by peer-to-peer
+capabilities, and stakeholders begin to demand more seamless transactions.
+
+GAIN FAMILIARITY
+
+DEVELOP A POINT OF VIEW
+
+Envision scenarios that reveal plausible future worlds where Web3 technologies have
+reached critical mass. Identify the top ways
+you could use Web3 technology to enhance
+your value proposition.
+CREATE YOUR ORGANIZATION’S VISION
+
+Develop a long-term vision to fill key underlying technology gaps to drive investment,
+M&A, product development, talent acquisition, and planning decisions.
+
+IDENTIFY AND PRIORITIZE TRENDS
+
+Prioritize trends that sit in the layer your organization must interact with most closely.
+EXPLORE WHITE SPACES
+
+Explore white spaces to gain new insights.
+Where are the opportunities for innovation
+and growth? Where are the threats to the
+organization’s ability to thrive? Where are
+the downstream risks to partners or customers?
+
+© 2023 Future Today Institute
+
+TECH
+
+Web3
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+What, if any, layers of
+the Web3 ecosystem
+do we need to
+participate in by
+creating or developing
+a capability?
+
+12
+
+2
+In what ways would
+our stakeholders
+benefit from
+interacting with our
+company and each
+other more directly?
+
+3
+What value do we
+have to share with
+stakeholders, and
+how could it be
+tokenized for easier
+transactions?
+
+4
+What physical assets
+does the company
+use or distribute
+that would benefit
+from tokenization
+for tracking or
+traceability?
+
+5
+How might we be
+impacted if data is
+less available in the
+future as consumers
+control their data more
+tightly?
+
+6
+How would an increase
+in cryptocurrency
+adoption impact our
+business model?
+
+7
+How might Web3
+drive an increase in
+globalization within
+our industry?
+
+© 2023 Future Today Institute
+
+TECH
+
+Metaverse
+
+METAVERSE TRENDS SUMMARY
+The metaverse - a
+collective virtual
+shared space may not be fully
+developed yet,
+but its impact
+on industry
+and consumer
+interactions is
+already widely felt.
+
+Key Insights for 2023
+Interfaces will become more immersive as both
+virtual spaces and the physical world are interlaced with rich digital media experiences.
+The metaverse is not a single technology, protocol, or entity; it means many different things to
+many different stakeholders. Executives should
+get clear about expectations and interests being
+brought to the table.
+Smart eyewear, in the form of glasses and contacts, will upend industries and interfaces designed for smartphones. New computing interfaces like headsets and glasses will take years
+to reach wide user adoption, but web-based
+standards already make augmented experiences
+possible using today’s smartphones.
+AR applications are ripe for consumer adoption
+because they solve for real-world convenience
+needs like navigation and contextual information, and yet they may be furthest away due to
+the technical challenges of heads-up displays,
+glasses, and contact lenses.
+
+or transferring attributes of virtual goods and
+identity avatars across platforms.
+People will create multiple digital versions of
+themselves, each tailored for specific purposes.
+This will lead to fragmentation—and a widening
+gap between who a person is in the physical
+world and who they project themselves to be in
+various online platforms.
+Economic headwinds may have tempered
+recent exuberance over new realities, but the
+infrastructure work that will pave the path for
+future development is underway.
+Embodied, spatial presence in virtual worlds
+only increases the need for ethical and humane
+guardrails for responsible use of technology.
+XR technologies pose as many accessibility
+challenges as they do opportunities.
+
+Interoperability and standards are still being
+worked out, but they are key to making spatial
+computing transferable across worlds, whether
+it’s about a shared understanding of coordinates
+
+14
+
+© 2023 Future Today Institute
+
+TECH
+
+HOW TO PREPARE
+Now is the time
+for focused
+experimentation and
+learning in the short
+term, and imaginative
+scenario planning
+for the long term,
+as industries reckon
+with the disruptive
+potential of novel
+computing interfaces
+that will succeed the
+internet-enabled
+smartphone.
+
+15
+
+Metaverse
+
+What should your organization do now to prepare for these trends?
+STRATEGY
+
+New reality technologies are still very
+nascent, so it’s worth thinking in both the
+near term and longer term when setting
+goals and priorities. From infrastructure, to
+hardware, to software—everything about
+immersive and spatial technologies is in development and up for grabs. Strategic plans
+should include provisions for interoperability, data portability, and transparency.
+INNOVATION
+
+As digital and physical realities become
+intertwined, innovation teams in many
+industries have an opportunity to pursue
+new moonshots. In 5 to 10 years, if consumers are wearing heads-up displays in the
+form of glasses or contacts, how could a
+retail, QSR/fast casual dining, or fan experience look radically different? How does
+this affect the medical patient’s experience?
+How might connected eyewear integrate
+with a car or truck? In what ways could
+
+a digital twin be additive to real estate,
+insurance, and city planning? Developing
+sound moonshot ideas and the applications
+to match will enable companies to positively contribute to new realities and the
+metaverse even as emerging platforms are
+being built.
+R&D
+
+Come to virtual and augmented layers of
+the world with a curious explorer’s mindset.
+Experimentation is the name of the game
+at this stage, so think bold, imagine what’s
+possible, and be ready to learn from early endeavors. Brands should be a part of
+the emerging ecosystem, at the very least
+to learn how consumers behave, interact,
+shop, discover, and create. Beyond gamified
+experiences, innovation teams should work
+toward co-creating digital worlds alongside consumers and technology partners
+to champion inclusivity and sound ethical
+practices.
+
+GROWTH
+
+After the short-term hiccups of the current
+economic climate, Future Today Institute
+anticipates sustained growth for new realities tech and the metaverse ecosystem
+over the long term. Austerity will only refine
+efforts in the technologies’ development
+and filter out the hype. Brands may be more
+risk-averse in their willingness to experiment in uncertain economic conditions,
+but the foundations for the spatial frontier
+of the internet will continue apace. Use this
+time to imagine longer-term scenarios and
+effects on your industry, and consider disruptive risks and opportunities.
+
+© 2023 Future Today Institute
+
+TECH
+
+Metaverse
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+Where might the
+new realities aid
+or disrupt our
+industry and/or our
+business’s value
+chain?
+
+2
+What affective
+state or emotions
+are we hoping to
+evoke for customers
+in immersive
+environments?
+Care, ease, delight,
+empathy, wonder?
+
+16
+
+3
+What is our
+customers’
+demonstrated
+appetite for
+immersive media
+experiences?
+What, if any,
+assumptions are we
+making about our
+user base?
+
+4
+What happens
+to our customer
+relationships if
+the smartphone
+interface
+disappears?
+
+5
+How can brands
+ensure that new
+realities and
+metaverse spaces
+are inclusive?
+
+6
+How will we
+incorporate
+input and iterate
+with customer
+feedback?
+
+7
+How do these new
+realities efforts
+serve and align with
+our brand values?
+
+8
+What does success
+in the metaverse
+look like for us
+today?
+In 10 years?
+
+What voices are
+represented at the
+table? Who are
+we overlooking or
+missing?
+
+© 2023 Future Today Institute
+
+TECH
+
+Metaverse
+
+KEY QUESTIONS FOR YOUR TEAM
+9
+What buy-in and
+support do we
+have for taking
+experimental risks
+with emerging
+technologies?
+What is our risk
+appetite for
+investing in pilots
+and exploring new
+business?
+
+10
+How dependent
+upon a proprietary
+platform is this
+effort, and what
+are the risks
+associated with
+that dependence?
+What requirements
+would we have
+if we prioritized
+interoperability and
+decentralization?
+
+11
+What ecosystem
+partners, platforms,
+and communities
+are we working with
+to leverage domain
+expertise?
+
+12
+What other
+intersecting
+trends and forces
+could affect our
+efforts—climate
+change, quantum
+computing,
+chip shortages,
+geopolitical unrest,
+novel pandemics?
+
+If digital identities
+aren’t interoperable
+across platforms,
+what problems
+might that create
+for our business?
+
+17
+
+© 2023 Future Today Institute
+
+TECH
+
+Bioengineering
+
+BIOENGINEERING TRENDS SUMMARY
+Breakthroughs in
+bioengineering
+mean incredible
+opportunity for
+every industry,
+but could also
+pose new risks as
+the technology is
+developed and
+implemented.
+
+Key Insights for 2023
+Bioengineering is a modern “general purpose
+technology” that has the potential to influence
+entire economies and to alter society through
+political, economic, and social structures.
+Innovations in biotechnology are currently defined by five key areas: biomolecules, biosystems, biomaterials, biocomputing, and biomachine
+interfaces. Major breakthroughs in one field
+either reinforce or accelerate breakthroughs in
+the others.
+Based on viable technologies and use cases that
+exist today, estimates of the combined total economic impact of bioengineering range from $2
+trillion to $4 trillion per year beginning in 2030.
+
+Advancements will result in optionality for carbon capture, plastics recycling, and biodiversity
+improvement.
+Ethical concerns around genetic engineering
+have yet to be resolved; this could prove to be
+a challenge as new techniques, such as genetic
+surgery, become available to the public.
+There is no singular global framework governing
+bioengineering. As a result, we can anticipate
+geopolitical conflict stemming from the development and use of emerging bio-based technologies in the years to come.
+
+Emerging trends in synthetic biology, CRISPR,
+artificial intelligence, and engineering will result
+in new opportunities for health care, pharmaceuticals, agriculture, food and beverage,
+beauty, chemicals, sustainability, energy, and
+materials production industries.
+Disruptions to conventional meat and dairy production, textile manufacturing, and pharmaceutical development are on the near-term horizon.
+
+19
+
+© 2023 Future Today Institute
+
+TECH
+
+HOW TO PREPARE
+
+Bioengineering
+
+What should your organization do now to prepare for these trends?
+
+Bioengineering is a long-horizon collection of technologies that will
+continue to develop and mature over the next several decades. It
+may feel premature to take action today; however, advancements
+in this field will have a compounding effect. AI offers a useful
+analogy here: The entire field of AI developed largely unnoticed
+by the business community, until suddenly it seemed to be both
+ubiquitous and a necessary part of daily operations. Leaders who
+were tracking AI developments and had developed a point of view
+wound up with valuable first-mover advantages.
+In the coming decade, bioengineering technologies will force
+leaders to confront their cherished beliefs about their core
+products and services, and they will challenge existing business
+models. Leaders will need to seek out new partnerships, develop
+new pipelines for talent, and align stakeholders on the moral and
+ethical uses of engineered biology.
+
+FAMILIARITY
+
+REHEARSE THE FUTURES
+
+Get to know the science, history, ecosystem, and players. Read books on synthetic
+biology and CRISPR. Cultivate relationships
+with experts. Attend a few conferences, just
+to learn. Follow VC funding and learn about
+their startups.
+
+Generate scenarios that reveal plausible
+future worlds where bioengineering technologies have reached critical mass. Where
+can the organization play and win? What
+challenges can be identified up front?
+
+TRENDS
+
+Develop a long-term vision on bioengineering technologies to drive investment, M&A,
+product development, talent acquisition,
+and planning decisions.
+
+Prioritize the trends that are most critical
+to the organization in the near term, and
+project the likely business impact.
+
+VISION
+
+WHITE SPACES
+
+Explore white spaces to gain new insights.
+Where are there opportunities for innovation and growth? What might threaten
+the organization’s ability to thrive? Where
+are there downstream risks to partners or
+customers?
+
+We advise businesses to prepare for the bioengineering age as
+they would for any other transformational technology:
+
+20
+
+© 2023 Future Today Institute
+
+TECH
+
+Bioengineering
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+Are we adequately
+prepared for the
+bioengineering era?
+
+2
+In what ways will
+bioengineering
+influence our
+manufacturing
+process?
+Our supply chains?
+Our product lines?
+
+21
+
+3
+How could
+we leverage
+bioengineering
+to give us a
+competitive
+advantage over our
+competitors?
+
+4
+
+5
+
+How could
+bioengineering
+affect our business
+model in the next 2
+years?
+
+What new
+opportunity spaces
+can bioengineering
+unlock for our
+business?
+
+5 years?
+
+Where does this
+open a new market?
+
+If our typical
+product
+development cycle
+takes 5-10 years,
+what do we need
+to do differently
+starting today?
+
+6
+How could
+bioengineering
+make our company
+vulnerable?
+Does this change
+our perspective on
+risk?
+
+7
+Do we have the
+knowledge,
+experience, and
+talent in place?
+
+8
+What will it take
+to socialize the
+opportunities
+and risks of
+bioengineering
+inside our
+organization?
+How can we
+create a sense of
+urgency among our
+stakeholders?
+
+© 2023 Future Today Institute
+
+TECH
+
+Climate & Energy
+
+CLIMATE, GREEN TECH AND ENERGY TRENDS SUMMARY
+While challenges
+stand in the way
+of addressing
+climate change,
+tech advancements
+have stoked
+hope for the
+development of a
+sustainable future.
+
+Key Insights for 2023
+ENERGY PRODUCTION
+
+Next-generation solar cells are thin, flexible,
+and printable, and they expand the spectrum
+of wavelengths from which they can extract
+energy, dramatically growing the application
+opportunities for the technology.
+Wind is moving offshore. New types of turbines—vertical or bladeless, for example—might
+provide more efficient alternatives to horizontal
+ones, or can be used side by side to catch winds
+at different altitudes.
+Startups aim to tap into geothermal energy
+20 kilometers beneath the earth’s surface. If
+successful and scalable, this could provide the
+majority of energy needed in the world.
+Hydrogen can now be made from sewer gas
+(hydrogen sulfide) using nothing but visible
+light, making the production much more affordable.
+Biofuels from hemp and algae could be more efficient to produce than from traditional biomass,
+bringing down the fuel’s price and making it
+more likely that governments implement blend-
+
+23
+
+ing requirements.
+Former landfills and mining sites can be repurposed for renewable energy development. They
+often have existing infrastructure and permitting
+advantages compared to other swaths of real
+estate.
+The Lawrence Livermore National Laboratory’s
+National Ignition Facility produced a nuclear
+fusion reaction that resulted in a net energy
+gain. Decades in the making, the breakthrough
+potentially paves the way for emissions-free
+energy—though realistically that won’t happen
+for decades more. Many challenges remain,
+including devising the supporting infrastructure
+and storage for fusion energy.
+New methods of harvesting energy can supplement or replace more traditional carbon-emitting energy sources. Waves, tides, and currents
+in bodies of water could provide more reliable
+sources of energy than wind or solar. Even
+sweat can provide a way to power small electronics and medical devices, producing no toxic
+byproducts.
+Rare earths can be found in mining waste,
+opening the door to diversifying the world’s supply. China currently controls 80% of the global
+market in rare earths.
+
+ENERGY INFRASTRUCTURE
+
+The costs associated with renewable energy
+have decreased significantly, but other barriers
+still limit the scale of these energy sources.
+More efficient and faster-charging batteries
+and novel methods of energy storage at the
+grid level are leading the way to affordable,
+environmentally friendly, lasting, flexible, and
+scalable solutions.
+New technologies are making it possible to
+move and harvest energy in groundbreaking
+ways. Ultra-high-voltage power lines, power-beaming microwaves, and space-based
+solar power are among the solutions that will
+allow energy to be transferred to undersupplied
+regions or moved to areas experiencing energy
+shortages.
+Grids are becoming more resilient and dynamic.
+This will be of supreme importance as more intense storms and forest fires increase as climate
+change worsens.
+EMISSIONS REMOVAL
+
+Volcanic sand and genetically edited crops
+could be significant natural carbon capture
+and storage (CCS) opportunities, in addition
+
+© 2023 Future Today Institute
+
+TECH
+
+Climate & Energy
+
+CLIMATE, GREEN TECH AND ENERGY TRENDS SUMMARY
+to expensive mechanical CCS installations at
+plants.
+
+accuracy and profitability and thereby increase
+opportunities to bring new life to old products.
+
+Companies are developing ways to use carbon
+dioxide captured from smokestacks or simply
+the air. A suite of new products ranging from
+fashion accessories to imitation meat can be
+made from the captured gas. The most viable
+products will combat environmental challenges by not only taking excess carbon out of the
+atmosphere, but also minimizing processes that
+emit extra carbon dioxide.
+
+New materials are radically changing the built
+environment and bringing new life to the construction industry. A suite of biomaterials and
+advanced materials science will reduce carbon
+emissions and even result in carbon being
+stored within these new materials.
+
+Tracking technologies are enabling both consumers and manufacturers to take control of
+their carbon footprints. Companies can develop
+competitive advantages by being more transparent with their value chains, appealing to
+environmentally conscious consumers.
+EMISSIONS REDUCTIONS
+
+Carbon-neutral or carbon-negative cement, 3D
+printing and AI-aided project planning, and the
+use of alternative materials such as recycled
+plastic all have the potential to significantly
+reduce the construction sector’s emissions.
+By using computer vision to better identify
+materials, recycling programs can boost their
+
+24
+
+Consumer and industrial products are being
+equipped with solar and electric capabilities to
+reduce carbon emissions and provide reliable
+solutions for unstable energy grids. They are
+also being equipped with capabilities for reducing microplastics in the ocean.
+The transportation sector is minimizing emissions through a series of innovations that improve vehicle aerodynamics, optimize charging,
+and even enable vehicles to be charged while
+moving. These innovations will be necessary for
+a critical mass of users to adopt electric alternatives.
+Behavioral changes such as shifting to plantbased diets or using renewable energy for heating, cooling, and cooking will have measurable
+effects on reducing carbon emissions.
+
+ENVIRONMENTAL MANIPULATION
+
+Rewilding projects are growing and are getting
+a lot of public support, as healthy and balanced
+ecosystems also help combat climate change.
+Cloud manipulation—brightening or seeding—might help reduce Earth’s temperature or
+increase the amount of rain. Overall implications
+to the world’s ecosystem are not clear.
+The oceans could be our best bet for removing
+CO2 from the air, if humans “help” them by, for
+example, adjusting their alkalinity or encouraging the growth of phytoplankton. However, the
+effects of these experiments on the wider maritime ecosystem have not been explored.
+EFFECTS OF CLIMATE CHANGE
+
+Using AI, satellites, and drones to monitor the
+effects of climate change reveals data and
+new discoveries that otherwise would remain
+unknowable.
+New types of city projects have garnered attention as climate change forces humanity to rethink where and how we live. Examples include
+domed, floating, and underground cities—all of
+which completely upend life as we know it.
+
+© 2023 Future Today Institute
+
+TECH
+
+HOW TO PREPARE
+OPPORTUNITIES
+Interim Solutions
+It takes time—decades—to implement green
+processes and methods such as carbon capture and storage technologies or infrastructure
+upgrades to accommodate renewable energies
+and distributed grids. Long interim periods
+come with their own specific subsets of pain
+points. Are there developments in your industry
+that would benefit from products that address
+these transient states?
+The Energy Opportunity
+The energy sector is experiencing a shift in the
+power dynamics of stakeholders as customers
+demand and search for environmentally friendly
+products and services. Decentralization of the
+grid and non-dispatchable energy sources such
+as wind and solar are not only introducing new
+players to the energy market, but demands on
+the grid itself are fundamentally changing to
+accommodate frequent energy transformations
+and changes in energy direction. How can your
+company rethink energy, be it as a possible
+additional product or an alternative form of
+production?
+
+25
+
+Climate & Energy
+
+What should your organization do now to prepare for these trends?
+Environmental Justice
+Discussion about wealthy countries paying reparations to smaller, poorer countries that are disproportionately affected by climate change has
+gained momentum. Wealthy nations pledged
+payments during the COP27 last year. How can
+your company go beyond introducing green
+practices and help alleviate the damage done?
+Go Local
+By reconfiguring supply chains, manufacturers
+can source materials closer to production lines,
+minimizing the need to transport goods and
+products over long distances. Through innovations such as using repurposed carbon to make
+products, organizations can have more control
+over where products are made, allowing them to
+incorporate more instances of near shoring.
+Get Ahead of Regulation
+As more emphasis continues to be placed on
+ESG, the onus will be on organizations to provide transparency into their inner workings and
+environmental impacts. It will behoove organizations to get ahead of these new expectations.
+Aside from the adoption of more stringent ESGs
+from shareholders and investors, swift regulatory
+changes will catch many organizations off guard
+and have significant bottom-line ramifications.
+
+THREATS
+Cybersecurity
+Technology enables and facilitates the shift to
+environmentally friendly processes in many of
+our most important industries—energy, food,
+industrial processes. However, this also makes
+those industries vulnerable to cyberattacks. As
+you upgrade your company’s digital infrastructure, are you making sure that your systems are
+adequately protected? And how are you preparing for outages caused by cyberattacks?
+Unexpected Impacts
+Disrupted supply chains have caused balloon
+flights from the National Weather Service’s
+Storm Prediction Center to be canceled, reducing data collection and compromising forecasts.
+The number of cities across Europe declaring
+clean air zones is expected to rise exponentially by 2025, forcing polluting vehicles off the
+road and possibly affecting last-mile delivery.
+Most leaders are aware of the direct impacts of
+climate change and environmental regulations
+on their businesses—shortages of raw materials, for instance, or a fragile supply chain. But
+are you aware of the second- and third-order
+impacts on your business of shifts in consumer
+behavior and an evolving regulatory landscape?
+
+A Shortage of Qualified Workers
+Although many tech workers have left the industry to find climate-related roles, the world will
+still face a dearth of talent dedicated to ensuring
+a climate-resilient future. Roles will become
+increasingly specialized, as the need for new
+technologies will also create the need for careful
+operation and maintenance. Universities can be
+slow to adjust to such changes, so climate-conscious organizations will have to source and
+train much of the available talent on their own.
+Planning for Climate Migration
+Climate migration will become an existential
+threat sooner and to a greater degree than many
+are anticipating. As climate migration increases,
+businesses will have to adjust their operations,
+supply chains, and skilled talent. Many will face
+decisions to uphold human rights and equality.
+The End of Greenwashing
+Are you prepared for complete transparency?
+As the ability to track CO2 emissions increases
+and industries can account for and track emissions throughout the entire value chain and lifecycle of a product, it will be easy to determine
+who greenwashes and who is implementing
+truly environmentally friendly practices.
+
+© 2023 Future Today Institute
+
+TECH
+
+Climate & Energy
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+Are we aware of
+how climate change
+will affect our entire
+value chain?
+Considering our
+location, supply
+chain, and the cost
+of raw materials,
+how will our
+customers be
+affected?
+
+2
+Can we produce our
+own energy, and
+potentially even sell
+surplus energy to
+third parties?
+
+3
+How can we and/or
+our vendors become
+part of the circular
+economy?
+
+4
+Will our products
+or services still
+be relevant in
+a world that is
+moving toward
+environmentally
+friendly processes
+and a lifestyle
+suited to a new
+climate reality?
+
+5
+Does my team or
+department need
+new skill sets to
+optimally address
+climate or energy
+questions?
+
+6
+Do we know our
+complete CO2
+footprint, and
+are we prepared
+for stricter
+environmental
+regulations?
+
+7
+Can we capture the
+CO2 we emit? And
+what would it take
+to enter the CO2
+market?
+
+8
+How should we
+prepare for more
+frequent and more
+severe extreme
+weather events?
+
+9
+What alternative
+materials are
+we prepared to
+integrate into our
+built environment
+or our products
+to create more
+sustainable
+behaviors?
+
+26
+
+© 2023 Future Today Institute
+
+TECH
+
+Mobility, Robotics & Drones
+
+ROBOTS, DRONES AND MOBILITY TRENDS SUMMARY
+While challenges
+stand in the way
+of addressing
+climate change,
+tech advancements
+have stoked
+hope for the
+development of a
+sustainable future.
+
+Key Insights for 2023
+As these mobility, robotics and drone markets
+mature, they are tackling three key areas of
+transformation:
+Electrification: Mobility is making substantive
+shifts to battery-powered vehicles, while robotics and drones remain committed to an electric
+future.
+Automation: Mobility is seeing growth in automated safety features, while the capabilities and
+use of drones and robots to automate specific
+tasks and jobs continue to rise.
+Autonomy: All three markets are looking to impart more autonomy on their machines, allowing
+them to become more effective. More autonomous operations would help the three markets
+in their quest to solve the last mile delivery
+problem.
+ELECTRIFICATION
+
+Companies are reimagining the interior of
+vehicles to improve the driver and passenger
+experience, creating a third personal space for
+consumers, outside their homes and workplaces. EVs afford designers an open and blank
+
+28
+
+space to work with. Entertainment is a focus,
+but improved connectivity and comfort are
+also factors, especially for companies looking
+to develop interiors for when fully autonomous
+driving emerges and passengers can work, play,
+or relax in the vehicle. Reimagining how vehicles are used is encouraging non-automotive
+companies to capitalize on the growing market,
+and create a deeper connection between home
+and car.
+
+mandates, as well as consumer expectations of
+Environmental, Social and Governance (ESG)
+goals. These regulations may push other industries to adapt and adjacent industries, such as
+warehousing and wholesaling, may see price increases as supply chains pass along new costs.
+
+Bidirectional charging will open up new markets
+and other uses for electric vehicles. EVs can
+now power job sites or venues, supply emergency power, and serve as a backup to the grid. One
+day, these vehicles could augment the broader
+electrical grid or allow more homes to operate
+off-grid.
+
+Drastic shifts in how engines are powered and
+designed will shift the risk characteristics of the
+mobility industry, as well as the manufacturers
+of these components. These shifts may require
+a re-examination of underwriting standards by
+insurance carriers. Another consequence will
+likely be a shortage of qualified vehicle maintenance professionals. As more automakers adopt
+direct-to-consumer car sales, dealerships are
+facing a very different future and their maintenance departments may disappear.
+
+EVs prices have already begun to drop, fueled
+by tax credits and companies lowering prices
+to entice consumers. Battery prices are also
+expected to fall over the next five years as economies of scale take shape, new materials and
+methodologies become viable, and recycling
+becomes more prominent.
+
+Vehicle expenses and insurance costs are likely
+to increase as additional entertainment options
+are added to vehicles. Customers will also be
+exposed to a growing number of new business
+models like subscription services that lock factory-installed features behind a paywall, or more
+instances of à la carte feature selection.
+
+Legislation phasing out internal combustion
+engines has been enacted across the European Union, Canada, and a handful of US states.
+Businesses will be forced to respond to these
+
+The market is moving toward consensus on the
+future of the EV market. Standardization of charger types and connections, charging locations
+and access, and charging costs are coming into
+
+© 2023 Future Today Institute
+
+TECH
+
+Mobility, Robotics & Drones
+
+ROBOTS, DRONES AND MOBILITY TRENDS SUMMARY
+focus, but more legislation and regulations are
+needed to bring the industry down a single path,
+rather than continuing to branch into numerous
+business models.
+Hydrogen fuel is without question an excellent
+green alternative, but adoption rates for this
+technology are still unclear. For construction
+or industrial operations out of reach of existing grids, hydrogen may present a cheaper
+alternative than installing longer-term solar or
+wind. Military operations may seek hydrogen
+fuel solutions if they are interested in lessening
+their carbon impact. However, it is likely that
+fossil fuel availability and the lack of needing to
+change vehicle architecture will inhibit extensive
+growth here.
+AUTOMATION
+
+Ultimately, automation will reduce risks in the
+workplace and on roads since most accidents
+are caused by human error. Businesses should
+be looking at increasing automation in their
+operations to reduce the risks of accidents and
+injuries.
+Robots and drones are here to stay and they will
+impact employment opportunities for workers.
+At this point, a lack of capital investment is
+slowing widespread adoption, as well as the re-
+
+29
+
+luctance to remove humans from the workplace.
+A large number of jobs can be automated, and
+labor market shortages are compelling businesses to increase robot adoption. Machines do
+not ask for a raise, take time off, or need health
+benefits. However, machines need a technically
+trained workforce to maintain them and repair
+them when they break down.
+A rise in automation also means that governments, labor or trade unions and organizations,
+academic institutions, and nonprofits need to
+begin preparing for and anticipating the wave
+of shifting employment needs. Former human
+employees will need financial support. Students
+will need to learn new skills and many former
+workers may be forced back into school. Just
+as there are now ongoing discussions of how
+academia needs to adjust to the release of
+ChatGPT, there should be a re-examination of
+worker training for the automation age.
+AUTONOMY
+
+Autonomous vehicles, robots and drones produce an immense amount of data, and most
+companies are not capturing enough of this valuable information. Insights gleaned from this data
+could drive efficiencies across operations, or be
+sold to interested parties from other industries.
+
+Compared to the steady adoption of EVs, the
+autonomous vehicle market is still uncertain.
+While a few key players are emerging, regulation is still muddled and inconsistent, though
+new rounds of lawsuits and investigations may
+resolve some outstanding issues. However, in
+order for autonomous vehicles to scale, it will
+require cooperation across a complex spectrum
+of participants, including regulators (both state
+and national), technology developers, consumers, and those responsible for building the
+infrastructure. A task that will be challenging
+and time consuming.
+Developing solutions to the last mile delivery
+problem are of paramount importance. Transportation companies, robotics makers, and
+drone producers are seeking ways to accomplish this with little or no human intervention. If
+companies can develop drones that more viably
+transport heavier packages with drones, this
+may truly enable the elimination of some last
+mile deliveries that need to be completed with a
+vehicle or person. This could even expand to industrial operations, allowing companies to move
+heavy materials around without fixed machinery
+or large vehicles. Construction companies could
+move materials between job sites, and industrial firms could move products across different
+stages of production.
+
+© 2023 Future Today Institute
+
+TECH
+
+HOW TO PREPARE
+Despite some of the headwinds against mobility, robotics, and drones, the major breakthroughs that these markets promise feel like
+they are more of a matter of when versus if.
+Electrification will take hold over the next 10
+years, with autonomy not far behind. Substantial automation will be driven by the widespread
+adoption of robots and drones with their autonomous capabilities growing daily. With these
+changes coming, organizations should have
+plans in place to take advantage of or defend
+against the coming changes. Impacts are coming for all businesses regardless of their direct
+or tangential connection to mobility or machinery. Most companies should prepare for:
+• Capturing and operationalizing data from
+vehicles, robots, and drones.
+• Finding opportunities to enable automation in
+their operations.
+• Knowing how insurance will be meaningfully
+impacted by automation.
+• Understanding how mobile spaces are and
+could be used differently.
+• Learning the impacts of electrification.
+
+30
+
+Mobility, Robotics & Drones
+
+What should your organization do now to prepare for these trends?
+All businesses and governments need to absorb
+increasing volumes of data, as well as capabilities to analyze and utilize the data.
+
+There are opportunities to capture revenues
+from the data generated by a fleet, robots, or
+drones. This information can assess the health
+and efficiency of an operation, suggesting corrections to save on the bottom line, but also to
+mine insights and sell this information to other
+companies. Would an insurance carrier like
+to know how robots are performing and how
+frequently they are down? Would they like to
+know how accident rates have fallen? Would a
+government or department of transportation like
+to know what their roads look like? Are vehicle
+routes efficiently mapped and planned? If your
+company has the ability to answer these types
+of questions, you should be questioning how
+quickly you can use it.
+
+Labor shortages present challenges, and robots
+and drones offer solutions.
+Drones and robots can take over repetitive,
+dirty, and dangerous jobs, allowing the workforce to focus on more complicated tasks,
+keeping them happy and safe. Pulling people
+out of these jobs will dramatically lower insurance costs. Employees who sit in an office have
+a lower insurance cost for a reason—they are
+substantially less likely to get hurt and need
+care or rehabilitation.
+Automation will meaningfully impact liability,
+workers’ compensation, and property premiums
+and risks.
+
+Manufacturing, warehousing, delivery, and
+labor-intensive businesses need to reevaluate
+operations to find opportunities for automation.
+
+Insurance companies should determine how
+to promote automation. Increased automation
+could meaningfully impact liability and workers’
+compensation market premium opportunities as
+fewer employees are placed in more dangerous
+positions. Installing more machinery may offset
+those changes by raising property risks.
+
+Companies should identify opportunities where
+robots or drones fit their operations. Some
+workers will be replaced, and others will need to
+be trained to work alongside the new machines.
+
+Businesses should weigh the change in expense
+structures that will come with automation.
+Companies will more than likely see a savings
+on premiums and insurers will save on claims
+
+© 2023 Future Today Institute
+
+TECH
+
+HOW TO PREPARE
+payouts. It is far more advantageous for a business and an insurance carrier to know exactly
+what the probable maximum loss is. A machine
+offers that luxury, as people are unpredictable
+and fragile.
+Automakers, retailers, software, and entertainment businesses should explore how workers
+and consumers will expect to use mobile spaces
+differently.
+
+With dramatic shifts to vehicle architecture
+underway, how people use their cars needs to
+be rethought. Will a car become a third space,
+between home and work? An EV could some
+day become a remote workspace. The van
+life concept—living in a vehicle, always on the
+move—spread during the pandemic, and new
+technologies may encourage a new wave of
+nomadism that utilizes modern, digital comforts.
+Will this change where people live? How will
+this impact the workforce? Employers must be
+prepared for a staff that demands remote work
+options.
+
+31
+
+Mobility, Robotics & Drones
+
+What should your organization do now to prepare for these trends?
+Businesses, governments and municipalities will
+need to incorporate electrification and infrastructure investment into their long-term (5-10
+years) strategic plans.
+
+Businesses will need to plan for the transition to
+EVs. Hard questions will need to be asked and
+an organization will need to decide how quickly it will make the switch. ESG considerations
+should not be ignored, especially as consumers
+make the switch. They will likely demand the
+same, if not more of the businesses they buy
+from.
+Governments of all localities and sizes need to
+begin planning for a different-looking environment that their constituents will work, reside,
+and play in. Fundamental changes are coming
+to how roads, offices, shops, and homes are
+constructed—all centered around charging the
+incoming wave of EVs.
+
+© 2023 Future Today Institute
+
+TECH
+
+Mobility, Robotics & Drones
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+If our company
+wants to take
+advantage of the
+new push for market
+share in the modern
+vehicle interior,
+are we delivering a
+product or service
+of lasting value
+that is transferable
+between vehicle
+types (ICE, EV,
+semi-autonomous,
+autonomous)?
+Can our product
+or service survive
+decades of
+significant, ongoing
+change?
+
+32
+
+2
+How can
+we leverage
+bidirectional
+charging and
+other new uses for
+electric vehicles?
+
+3
+Are we collecting
+data from vehicles,
+operations, people,
+and machinery?
+If not, what would it
+take for us to do so?
+How could we
+leverage that
+data to make our
+business better?
+
+4
+Are we prepared
+for the next chip
+shortage or some
+other failure within
+the supply chain?
+
+5
+Are we prepared
+for changes in our
+workforce?
+How will shifts in
+birth rates, changes
+in educational
+attainment, job
+satisfaction, and
+monetary needs
+change who we hire
+and what skills we
+look for?
+
+Who else would be
+interested in our
+data?
+
+© 2023 Future Today Institute
+
+TECH
+
+Mobility, Robotics & Drones
+
+KEY QUESTIONS FOR YOUR TEAM
+6
+Can we leverage
+robots and drones
+to eliminate dull,
+dirty, or dangerous
+jobs in our
+operations?
+
+7
+What would our
+business look
+like with half the
+number of human
+staff?
+How would
+it function
+differently?
+How would we feel
+about making this
+change?
+
+33
+
+8
+Can we
+accommodate the
+implementation of
+a new robot/drone
+as seamlessly as we
+could hire and train
+someone?
+Do we have
+the space and
+knowledge to do
+so?
+
+9
+For insurance
+carriers weighing
+the loss of workers’
+compensation
+premiums to
+automation—would
+we rather pay to fix
+a broken machine
+or a broken person?
+
+10
+Can we offer our
+robots or drones as
+a service to others?
+What if they were
+autonomous?
+
+© 2023 Future Today Institute
+
+TECH
+
+Computing
+
+COMPUTING, NETWORKING AND QUANTUM TRENDS SUMMARY
+Incredible
+computing
+achievements over
+the past several
+decades have
+paved the way
+for the creation of
+new computing
+architecture and
+applications.
+
+35
+
+Key Insights for 2023
+Regions slow to adopt 5G will get left behind in
+multiple sectors.
+6G is the sixth generation of wide-area wireless technology, and is already in development.
+Unlike 5G, 6G does not require an entirely new
+infrastructure. It builds upon the infrastructure
+that’s being put in place for 5G. This means that
+when 6G is available, adoption will be quick.
+The metaverse will not happen without significant advances and implementation of computing and connectivity technologies, among
+them 5G, middle-mile fiber networks, and high
+resolution video technology.
+Satellite internet will squeeze margins of other
+communication service providers and render
+them less relevant.
+
+Organic computers may help us overcome
+Moore’s law since they can store more information than a transistor and do so with less energy.
+Quantum computers will be able to break into
+any conventionally encrypted computer. To keep
+data and secrets secure, governments and companies must act now to implement post-quantum cryptography.
+Computationally intensive processes are ideal
+candidates for quantum applications. By utilizing quantum to perform Monte Carlo methods,
+researchers can include more random values in
+the simulation—thus improving accuracy—without compromising speed. And quantum computers are ideally suited for simulating molecule
+behaviors, thereby drastically speeding pharmaceutical drug discovery and development.
+
+The semiconductor shortage made the vulnerabilities in the global supply chain brutally clear.
+Chip shortages reverberated throughout the
+world economy and drove countries to accelerate domestic chip production via subsidies and
+enact protectionary policies. These protectionary policies may have unintended consequences.
+
+© 2023 Future Today Institute
+
+TECH
+
+HOW TO PREPARE
+The future of
+computing presents
+both threats and
+opportunities
+for business. To
+prepare for the
+future, businesses
+should consider
+implementing the
+following actions.
+
+36
+
+Computing
+
+What should your organization do now to prepare for these trends?
+INVEST IN INFRASTRUCTURE
+
+GROW THE QUANTUM TALENT POOL
+
+The ongoing effects of the chip shortage,
+coupled with inflation and geopolitical
+tensions, will continue to make it difficult
+for some industries to meet demand. Businesses should be proactive in finding ways
+to mitigate the effects of the chip shortage,
+such as by diversifying supply chains or
+finding alternative sources of chips.
+
+Smart telcos can establish dominance
+early by providing the best building blocks
+for the metaverse ecosystem. Companies
+can position themselves now to provide
+edge computing services, and capture
+in-metaverse data to help their customers
+improve decision-making and products, or
+provide trusted cybersecurity services fit for
+the virtual world.
+
+There is a shortage of skilled quantum
+workers, which could hinder quantum
+breakthroughs and make it difficult for companies to compete in the era of post-quantum cryptography. To prepare for the future,
+businesses should focus on attracting and
+training technically skilled labor in quantum
+computing.
+
+SECURE IOT
+
+PROTECT AGAINST IP THEFT
+
+While the iInternet of Things (IoT) will bring
+many benefits, it also introduces vulnerabilities through the collection and transmission
+of personal data and the possibilities of
+weak security measures. Businesses should
+ensure their IoT devices are secure and that
+appropriate measures are in place to protect personal data.
+
+Quantum computing could be used to reverse-engineer proprietary technology and
+algorithms, leading to the theft of intellectual property (IP) or trade secrets. Businesses
+should take steps to safeguard their IP,
+such as by implementing strong cybersecurity measures and being proactive in threat
+detection and mitigating potential threats.
+
+PREPARE FOR FUTURE SUPPLY
+CHAIN DISRUPTIONS
+
+© 2023 Future Today Institute
+
+TECH
+
+Computing
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+How will the
+limitations of
+Moore’s law affect
+the performance
+and capabilities of
+current business
+processes?
+
+2
+How can we take
+advantage of
+new computing
+architectures and
+models?
+
+3
+How should we
+plan for, and adapt
+to, the rollout
+of 5G and the
+development of
+6G?
+What are the
+consequences
+of falling behind
+these technologies
+for our operations
+and competitive
+position?
+
+37
+
+4
+What are the
+implications to our
+business depending
+on which country
+is the first to
+achieve quantum
+supremacy?
+
+5
+Do we have the
+necessary skills
+and expertise to
+take advantage
+of these emerging
+technologies?
+If not, what do we
+need to do to upskill
+or attract the right
+talent?
+
+6
+Is our business or
+industry vulnerable
+to computingrelated supply
+chain disruptions?
+If so, what steps
+can we take to
+mitigate the risks
+and eliminate
+points of failure?
+
+7
+How can we engage
+with researchers
+and developers
+of neuromorphic
+computing
+technologies to
+collaborate on the
+development and
+deployment of
+these technologies,
+and how can we
+stay informed
+about the latest
+developments in
+this field?
+
+8
+How can we ensure
+that our deployment
+of emerging
+technologies, like
+AI and quantum
+computing, is done
+so in a responsible
+and ethical
+manner?
+
+© 2023 Future Today Institute
+
+News & Information
+
+INDUSTRY
+
+NEWS AND INFORMATION TRENDS SUMMARY
+Virtual
+environments,
+artificial
+intelligence,
+and new ways
+of consuming
+information are
+forcing news
+and information
+business models to
+transform.
+
+Key Insights for 2023
+Generative applications of AI—like OpenAI’s
+DALL-E 2 image generator—have gone mainstream. This new class of tools is actively
+rewriting workflows and creating new norms for
+consuming media.
+Large language and transformer models are
+revolutionizing how search engines answer
+questions. These innovations will radically alter
+the way consumers discover new content—and
+how publishers build relationships with their
+audiences.
+
+funders, but legacy media companies remain
+skeptical of changing operations.
+AI researchers are actively investigating how
+algorithms can be used to improve news recommendations, detect fake or misleading media
+pieces, and identify facts in disparate sources.
+Without engagement from journalists and media
+organizations, this work risks solving the wrong
+problems or creating deeper issues for the
+future of news.
+
+Trust in news is at a historic low around the
+world, leaving news organizations vulnerable to
+reputational crises, which might originate from
+human error or from a coordinated assault by
+bad actors.
+Journalists increasingly need technical knowledge to trace stories, protect themselves from
+cyberattacks, and monetize their work. The
+demand for these skills can be filled by training,
+building external partnerships, or breaking down
+silos in legacy organizations.
+Innovative applications of emerging technology generate excitement and enthusiasm from
+
+39
+
+© 2023 Future Today Institute
+
+News & Information
+
+INDUSTRY
+
+HOW TO PREPARE
+Executives will be
+challenged in 2023
+to grow market share
+and revenue.
+
+What should your organization do now to prepare for these trends?
+Subscription programs will battle
+economic headwinds and market
+saturation.
+Inflation will put growing pressure on consumers to prioritize expenses. The temptation for publishers will be to fight churn
+exclusively with tried-and-true market tactics like discounting to get more subscribers
+in the door, and price discrimination to earn
+more from a diminishing subscriber base.
+The way forward, however, is for publishers
+to seek real innovation for their core products to ensure continued relevance—and the
+integrity of their value chain into the future.
+Evolving search interfaces will change
+how consumers discover new content.
+Voice assistants and natural language
+search results will gradually replace the
+traditional link-based search-engine result
+page, disrupting a key audience growth tactic and decreasing traffic to on-site paywalls.
+This trend will force publishers to reconsider
+how they connect with new users.
+
+40
+
+Device manufacturers can deliver
+bundled content, disrupting
+publishers’ relationships with
+audiences.
+Apple News and Google Discover aggregate a mix of local and national news
+directly onto the home screens of Apple
+and Android devices, respectively. Those
+apps—designed by highly resourced teams
+out of Silicon Valley and backed by large
+content-licensing budgets—directly serve
+the news needs of many consumers, diminishing the need to turn to a local newspaper
+or public broadcaster.
+
+graphics, and shifting social expectations.
+Most legacy publishers—and even digital
+upstarts—don’t have the organizational
+culture to respond to those multidisciplinary
+challenges.
+Trust in institutions—and in news
+media, particularly—is at historic
+lows.
+News organizations live and die by their
+reputations. Without trust, it’s impossible
+to build the audience needed to sell advertising at scale or to convert consumers to
+subscribers.
+
+Innovation related to the creation,
+distribution, and monetization of
+information is happening across
+multiple, unrelated domains.
+Resource-constrained publishers need to
+stay abreast of developments in AI, hardware manufacturing, and network connectivity. The uncertainty posed by those
+domains is magnified by the impacts of
+government regulation, changing demo-
+
+© 2023 Future Today Institute
+
+News & Information
+
+INDUSTRY
+
+HOW TO PREPARE
+Organizations seeking
+to take an active
+role in shaping the
+future of news should
+monitor emerging
+opportunity spaces.
+
+What should your organization do now to prepare for these trends?
+• Large language models like OpenAI’s
+GPT-3 and Google’s Pathways Language
+Model can be used to generate and publish new types of content.
+• Emerging devices will demand new programming formats. Creators who partner
+with tech companies early will be able
+to set norms and negotiate better deals
+than those who wait.
+• Advances in generative AI have created
+production-ready tools that can power
+multilingual translation, chatbots, and
+personalization.
+• Generative AI also makes it easier to
+transform the format of content: Text
+can become audio. Audio can be paired
+with visuals to create video. Video can
+be summarized effectively into text. This
+opens the door for creators to distribute
+content in formats, and on platforms,
+they might not otherwise have explored.
+
+41
+
+• In a low-trust environment, brands that
+build and maintain durable relationships
+with consumers will thrive. Publishers
+that have accrued trust over decades can
+translate that across distribution formats
+with thoughtful product development.
+• Teams of computer scientists around the
+world are exploring how to apply artificial
+intelligence to identifying lies and misinformation on social media and in the
+news. Organizations that identify those
+researchers could build relationships to
+shape and play a role in that research.
+They may also identify talented AI experts interested in working on problems
+related to the future of news.
+
+© 2023 Future Today Institute
+
+News & Information
+
+INDUSTRY
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+Are we prepared
+for a future where
+generative AI
+further reduces
+barriers to creating
+compelling
+content?
+A world where
+the power to
+distribute content
+is increasingly
+concentrated
+among device
+makers?
+
+2
+How would our
+organization
+respond to a
+trust crisis in our
+audience?
+Are we prepared to
+defend against bad
+actors who want to
+smear our brand?
+
+3
+What new
+opportunities are
+possible for our
+company using
+generative AI?
+
+4
+What assumptions
+about content
+distribution are
+baked into our
+operating model?
+How might those
+change over the
+next two years?
+What can we do
+to mitigate the
+risk that those
+assumptions are
+wrong?
+
+5
+Does my team or
+department need
+new skill sets to
+optimally address
+climate or energy
+questions?
+
+6
+Is our company’s
+revenue
+concentrated in
+one place? How
+long would it take
+to meaningfully
+change that?
+
+7
+What ethical
+norms do new
+technologies
+challenge when
+they create
+content?
+
+8
+Do we have the
+knowledge,
+experience, and
+talent in place
+to respond to
+emerging threats?
+Do we need to build
+new partnerships
+with technologists?
+
+9
+What will it take
+to socialize the
+opportunities and
+risks posed by new
+technologies inside
+our organization?
+How can we
+create a sense of
+urgency among our
+stakeholders?
+
+42
+
+© 2023 Future Today Institute
+
+Financial Services
+
+INDUSTRY
+
+FINANCIAL SERVICES TRENDS SUMMARY
+Digitization,
+invisible
+interactions, and
+developments
+from incumbent
+players and new
+entrants is rapidly
+transforming the
+financial services
+sector.
+
+44
+
+Key Insights for 2023
+Multiyear efforts to digitize financial services are
+finally coming to fruition, enabling the explosion of financial technologies that underpin the
+movement to open banking. Open banking can
+lead to open finance, which can accelerate open
+data, and fundamentally change how scarce
+resources are distributed and allocated.
+Customer-centric and socially responsible
+approaches are increasingly table stakes in the
+design of financial services products.
+In 2023, expect increasing commoditization of
+financial services infrastructures.
+During the next 18-24 months, Decentralized
+Finance (DeFi) will mature, sparking new investment, growth, and adoption.
+
+Look for large nonfinancial players with significant centralized market power, such as platform
+providers and regulators, to play increasingly
+active roles in setting rules and guiding the evolution of financial services.
+As back-office infrastructure has opened up and
+become standardized, banking-as-a-service
+providers are growing increasingly popular. We
+anticipate growth in the space during the next
+24 months.
+New forms of data modeling and credit scoring
+will expand access to financial systems in 2023.
+Responsible innovation will be crucial to the
+future of alternative credit scoring, especially as
+machine learning techniques and generative artificial intelligence systems are applied at scale.
+
+Future Today Institute expects mainstream
+financial services and decentralized financial
+services to run in parallel for some time. As DeFi
+continues to mature, organizations will gain
+hard-fought insights around structural and customer protection systems. We anticipate legacy
+finance will evolve while trying to build connective tissue to decentralized systems, with the
+explicit goal of absorbing enough functionality
+to avoid total disintermediation.
+
+© 2023 Future Today Institute
+
+Financial Services
+
+INDUSTRY
+
+HOW TO PREPARE
+Executives will
+experience ongoing
+rapid change as
+the digitization of
+financial services
+matures. This will
+substantially increase
+the complexity and
+interconnectivity of
+the entire financial
+services ecosystem.
+
+What should your organization do now to prepare for these trends?
+1. CORPORATE INNOVATORS
+
+3. DEFI BUILDERS
+
+5. VC INVESTORS
+
+• Prepare to fast follow as waves of startups
+reach maturity and demonstrate viability of
+new markets and business models.
+
+• Prepare for potential regulation.
+
+• Seek out companies with break-even strategies and healthy unit economics.
+
+• Look to startups with new business models
+and local product market fit that seek to expand regionally or globally.
+• Build the corporate muscles to make strategic
+decisions in uncertain environments by creating clear guidance across the organization.
+• Develop intentionality around acting, watching, or ignoring.
+2. REGULATORS
+• Work with creators and builders to convey
+institutional knowledge learned from past
+dealings with legacy financial services.
+• Seek out diverse perspectives and opinions.
+• Stay focused on the intent of key rules, and
+regularly revisit them to ensure they achieve
+that intent.
+• Be sure to understand the market power of
+each stakeholder.
+
+45
+
+• Adopt a global mindset with local implementation.
+• Support parallel development to legacy
+financial services, while establishing sufficient
+rules and guardrails for the industry to mature.
+• Prepare for DeFi and legacy financial services
+to become increasingly interlinked.
+4. STARTUPS
+• Look to flywheel business models, and a landand-expand commercialization strategy.
+• Expect securing funding will become significantly harder, and limit burn rates accordingly.
+• Build milestones and checkpoints into growth
+projections, and be prepared to forego certain
+expenses and deals if those milestones aren’t
+achieved.
+
+• Prepare for internal rounds and decreasing
+valuations.
+• Help failing companies shut down quickly, and
+with dignity.
+6. RETAIL INVESTORS
+• Expect story stocks and meme stocks to revert to more standard valuations.
+• Prepare for new asset classes, like NFTs and
+fractional investments, to become a part of a
+well-diversified portfolio.
+• Keep an eye out for financial advice from
+non-traditional sources.
+
+• Assume flat or down valuation funding
+rounds.
+• Get to breakeven as soon as possible.
+
+© 2023 Future Today Institute
+
+Financial Services
+
+INDUSTRY
+
+HOW TO PREPARE
+HOW TO SPOT SECTOR OPPORTUNITIES
+White space
+• Watch entities that set rules for owners of
+relationships with large customers: governments, platform operators, banks, exchanges, etc.
+• Watch for when those entities make rule or
+access changes that enable startups to enter
+previously restricted spaces.
+• After startups enter such spaces to iterate
+and fail fast, look to large corporates to
+seek partnerships or deals to capture those
+markets.
+Ignored space
+• Look to startups that fulfill the customer
+needs that large institutions don’t address,
+either because doing so would cannibalize
+their business or because it doesn’t pay
+off to target small but fast-growing market
+segments.
+
+What should your organization do now to prepare for these trends?
+MACRO OPPORTUNITIES RIPE FOR
+ACCELERATED CHANGE IN 2023
+• Using financial data accessed through open
+banking.
+• Converting existing money movement to
+real-time and near real-time frequency.
+• Efforts to make DeFi mainstream (regulation,
+on and off ramps, governance).
+• Orchestration of back-office intermediaries
+for invisible customer and business experiences.
+• Commoditization of financial services.
+• Financial inclusion to increase the global
+market for financial services.
+• Creators increasing their market power.
+• Platforms reinforcing their walled gardens.
+• Social responsibility becoming table stakes.
+
+• Look to geopolitical tensions to create more
+room for domestic first solutions.
+
+46
+
+© 2023 Future Today Institute
+
+Financial Services
+
+INDUSTRY
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+What areas are
+being ceded to
+startups, whether
+intentionally or
+unintentionally?
+
+9
+How can the
+industry learn from,
+and prepare for,
+the influx of new
+startups?
+
+47
+
+2
+What happens
+if financial
+services become a
+commodity?
+
+10
+Who within our
+organization
+is ensuring our
+readiness to quickly
+follow what’s
+happening at the
+fringe?
+
+3
+What opportunities
+arise when players
+across all industries
+are forced to open
+their back offices to
+third parties?
+
+4
+How do preprogrammed
+financial decisions
+like standing orders
+evolve to represent
+intent, such as
+“make sure my
+checking account
+never runs out of
+money”?
+
+5
+How does this
+industry sell to
+an algorithm? Do
+business models
+break if a human
+isn’t the ultimate
+decision-maker?
+
+6
+What does the
+consumer banking
+website of the
+future look like?
+
+7
+How do financial
+players adapt to the
+changing balance
+of power between
+individuals and
+institutions?
+
+8
+Who owns
+a customer
+relationship,
+and how many
+intermediaries can
+there be between
+the customer and
+the final product?
+How do we balance
+complexity versus
+simplicity?
+How many
+intermediaries is
+too many to deliver
+great customer
+experience or to
+ensure safety and
+security?
+
+© 2023 Future Today Institute
+
+Health Care & Medicine
+
+INDUSTRY
+
+HEALTH CARE AND MEDICINE TRENDS SUMMARY
+A constellation of
+forces is aligning,
+and promising
+to result in a
+transformation
+of every aspect
+of health care:
+operational,
+clinical, financial,
+and patient care
+itself.
+
+Key Insights for 2023
+Amazon is health care’s most ambitious disruptor, and its every acquisition or new service
+announcement moves markets. In January
+2023, the company announced RxPass, a
+$5-per-month subscription service for unlimited
+prescriptions. In the future, look for Amazon to
+execute on a broad strategy that aims at nothing
+less than reworking the entire US health care
+ecosystem.
+Venture capitalists now target rural communities, which traditionally lack access to health
+care, with medical startups. In order for bio- and
+health tech-focused startups to find footings in
+the market, they need real-world applications.
+This means getting a foot in the door of health
+care systems, which is what investors are doing
+as they launch partnerships to create pilot sites
+for the startups in their portfolios.
+Membership-based services and health tech
+startups are creating new direct-to-consumer
+(D2C) models that better fit the needs and lifestyles of younger, digitally savvy generations.
+Americans can now legally obtain their medical
+data, though existing systems make it difficult
+to access most of it. That will change starting
+
+49
+
+in 2023, thanks to new policy changes, which
+will create new opportunities and operational
+challenges for health providers.
+Breakthroughs in sensors and artificial intelligence are expanding the possibilities for remote
+diagnosis. Data captured by clinical-grade sensors is triaged by algorithms, thereby reducing
+the time from insights to action.
+Brain-computer interfaces will begin clinical
+trials in 2023.
+
+concerns.
+Since the start of the pandemic, consumer
+adoption of digital fitness technologies has
+skyrocketed. Health and fitness apps, connected
+fitness equipment, and health-focused wearables are up 13%, 15%, and 16%, respectively,
+since early 2020. The next wave of fitness and
+health-focused technology growth will focus
+on scaling meditation, sleep, and mental health
+technologies so they are more affordable—and
+more accessible—for the mass market.
+
+Medical misinformation will continue to pose
+significant risks. In addition to disinformation
+campaigns about viruses and vaccines, a new
+breed of medical deepfakes in diagnostic imagery maliciously adds––or removes––tumors and
+other conditions.
+Whole-genome sequencing, to screen babies
+for genetic diseases, could become a routine
+part of wellness exams in the near-future.
+Emerging therapies are allowing doctors to treat
+genetic disorders in utero.
+Researchers are developing genetically engineered organs in animals for xenotransplantation, or transplantation into human patients. This
+could unlock a new type of medical agribusiness—and, of course, a whole host of ethical
+
+© 2023 Future Today Institute
+
+Health Care & Medicine
+
+INDUSTRY
+
+HOW TO PREPARE
+As emerging
+technologies bring
+the power of the
+laboratory into our
+homes and AI expands
+the possibilities for
+remote diagnosis,
+knock-on effects
+will be realized this
+decade. Ongoing
+disruption is likely.
+
+What should your organization do now to prepare for these trends?
+Executives and their teams must confront their cherished beliefs about what
+health care has always been—and
+develop new mental models for what
+it could be in the future. It would be a
+mistake to focus only on three- or fiveyear strategic plans, because big tech
+players (Amazon, Meta, Google, Apple)
+and well-capitalized startups play a longer game. In the next few years, leaders
+will need to develop a refined vision for
+future growth. We recommend that you
+evaluate how the technology trends in
+this report are likely to shape the futures
+of health care operations, as well as
+the practice of medicine and the health
+insurance ecosystem.
+Companies seeking to take an active
+role in shaping the future of health
+and medicine should be developing a
+point of view on technology (hardware,
+software), data collection, the patient
+experience, external partners, and the
+
+50
+
+talent pipeline. Which of these will likely
+impact your enterprise earliest? Which
+might take longer to develop, but could
+have a larger impact on your operations?
+Wearable devices are moving from the
+fringe to the mainstream, and consumers are looking for actionable insights.
+They are also more health-conscious in
+the wake of the pandemic. Additional
+factors include the rollout of 5G networks and relaxed rules on telemedicine and remote patient monitoring.
+Longer-range road maps in the health,
+medical, and wearable space can balance near-term expectations with more
+aggressive research agendas. Rehearsing the futures of health care using
+strategic foresight has never been more
+important.
+
+Health Care & Medicine
+
+INDUSTRY
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+How could homebased diagnostic
+systems disrupt our
+business?
+
+51
+
+2
+If direct-toconsumer tests
+threaten our
+profitability, can
+we develop new
+products or services
+to compete with
+upstarts?
+
+3
+How might
+emerging
+technology unlock
+new growth
+opportunities for
+our business?
+
+4
+If we source new/
+more biometric
+data, could we
+develop new and
+deeper insights
+about our patients
+and customers?
+
+5
+How could
+advancements
+in some of these
+health and medical
+tech trends make
+our company
+vulnerable?
+
+6
+How do these
+trends change our
+perspective on risk?
+
+7
+Do we have the
+right knowledge,
+experience, and
+talent in place to
+take advantage of
+these trends?
+
+8
+In a field where
+breakthroughs can’t
+be scheduled and
+research can take
+a decade or more
+to produce a viable
+candidate, how can
+we create a sense
+of urgency and take
+meaningful action
+right now?
+
+© 2023 Future Today Institute
+
+Government, Policy & Security
+
+INDUSTRY
+
+GOVERNMENT, POLICY AND SECURITY TRENDS SUMMARY
+The intersection of
+a global polycrisis
+and increasingly
+sophisticated
+cybersecurity risks
+are contributing
+to the creation
+of a new global
+disorder.
+
+Key Insights for 2023
+The internet has permanently splintered. Policies
+in the West to promote a free internet largely
+failed, leaving a fragmented digital ecosystem
+with competing interests to grow. If there ever
+was a truly open, global internet, it’s over.
+Data from myriad sources is now viewed as a
+component of geopolitical power. Country leaders view data as central to competitive advantage, while tech companies rely on it to thrive
+and grow. This positions Big Tech and government as adversaries in countries like France, the
+US, and the UK, while China’s Big Tech companies are reluctant bedfellows with the Chinese
+Communist Party (CCP) leaders.
+In 2023, the EU will finalize its AI Act, which will
+focus on the use of AI systems that use citizen
+data for potentially detrimental purposes. It’s
+viewed as the world’s first attempt at creating
+broad, enforceable standards governing the use
+of AI. While AI developed for national security
+or military uses will likely be exempt from the
+EU’s new regulations, social media platforms
+like Facebook and TikTok could find it difficult to
+comply.
+The global pandemic accelerated digital trans-
+
+53
+
+formation. From newly automated city services
+to the now widespread acceptance of telehealth,
+modernization initiatives are being deployed
+across local, city, state/provincial, and national
+governments. This sets the stage for long-term
+digital transformation of government administration.
+Industrial policy has suddenly reemerged as
+a tool to bolster science and technology competitiveness. After falling out of favor in the US
+during the 1980s, there is now growing enthusiasm in many countries for new policies supporting technology-driven industries considered
+strategically important (such as the semiconductor chip industry).
+Beijing has hundreds of basic research projects
+underway, ranging from new quantum systems
+and supercomputers to synthetic biology and
+genetic engineering. China has restructured
+its higher education system, positioning universities to conduct basic research at scale. As
+the country starts to surpass the US in government-funded basic research, the US and other
+governments now see basic research as a path
+to enhance competitiveness.
+Chinese companies will respond to government calls in 2023 to share their prosperity with
+society through public-private partnerships
+
+and financial support of basic research. Tencent, China’s mega e-commerce, social media,
+gaming, and super app giant, will contribute $1.5
+billion over 10 years to catalyze basic research in
+biology, math, physics, and life sciences.
+In the US, proposed bills to invest hundreds of
+billions into technological development could
+change the way we think about the government’s role in value creation. Those bills include
+the Infrastructure Investment and Jobs Act,
+($550 billion), the Creating Helpful Incentives to
+Produce Semiconductors (CHIPS) and Science
+Act ($280 billion), and the Inflation Reduction
+Act ($390 billion). Collectively, they mark the
+most aggressive funding plan for technology
+and science in a generation.
+The United Arab Emirates hopes to become a
+neutral, global hub for emerging technology
+and policy innovation. In the coming year, look
+for advancements in health care, autonomous
+driving, cryptocurrencies, e-commerce, and AI.
+The UAE has publicly stated plans to be home to
+at least 20 unicorns––startups worth $1 billion or
+more––by the end of 2031.
+Multilateral export controls are created by
+groups of states to informally govern the exports
+of certain technologies for mutual benefit. But
+increasingly there is misalignment among allies,
+
+© 2023 Future Today Institute
+
+Government, Policy & Security
+
+INDUSTRY
+
+GOVERNMENT, POLICY AND SECURITY TRENDS SUMMARY
+especially when it comes to China’s semiconductor industry. Such controls could backfire in
+2023.
+In 2023, existing and proposed privacy regulations will challenge organizations, thanks to
+local and regional variations. Within the EU,
+sweeping frameworks like the GDPR are being
+enforced differently in member countries, while
+stringent new biometric regulations in the US
+vary from state to state. Complexity is unlikely to
+be resolved.
+
+it difficult to protect from espionage.
+Powered by AI, lethal autonomous weapons
+systems can find targets on their own and make
+decisions to complete a mission. Last year, 70
+nations delivered a joint statement at the UN
+General Assembly calling for a ban on autonomous weapons—little progress has been made
+in the months since.
+
+Biometric data isn’t stored as securely as it
+should be, opening the door to theft and manipulation this year.
+During the past three years, the risk of ransomware has escalated across local governments,
+school districts, and hospital systems. Ransomware gangs are now offering their services for
+hire, and even marketing their capabilities and
+tools to outsiders. Hackers are professionalizing,
+developing commercial products, and operating
+increasingly lucrative businesses.
+Cybercriminals could start targeting underwater
+IT infrastructure, including subsea cables that
+allow countries to exchange power and citizens
+to get online. Fully 95% of the world’s internet
+traffic travels underwater at some point, making
+
+54
+
+© 2023 Future Today Institute
+
+Government, Policy & Security
+
+INDUSTRY
+
+HOW TO PREPARE
+Because of globalization,
+technology, government,
+and security are completely
+intertwined.
+Manufacturing the equipment required by
+modern business—laptops, mobile phones,
+machinery­—relies on a supplier network
+often spanning numerous countries. The
+means of collecting, using, and storing data
+typically crosses state and country lines.
+With policy uncertainty growing and advanced technologies creating new pressure
+for lawmakers, it’s more important than ever
+for executives to monitor developments
+and for government leaders to engage in
+meaningful, long-term planning to forecast
+knock-on impacts of potential legislation.
+The intersection of technology, policy,
+and politics affects every organization. As
+lawmakers craft new types of regulations to
+address emerging technologies, businesses must address policy uncertainty in their
+strategic planning. Anticompetitiveness
+
+55
+
+What should your organization do now to prepare for these trends?
+lawsuits and antitrust investigations will
+have a chilling effect on merger and acquisition activity by the big tech companies. If
+one organization under scrutiny provides
+some (or all) of your technology stack,
+further improvements and features could
+be paused if lawsuits siphon off resources.
+Likewise, how a company collects, uses,
+and stores data; the technology acquisitions business units develop; the vendors
+and partners they select; and investments
+they make in security all affect its future.
+The dynamic nature of cybersecurity will directly impact corporate strategic initiatives
+in digital transformation, operating income
+growth, international expansion, and more.
+Policy uncertainty creates hurdles for
+innovation teams, and in both the US and
+China, the administrations have demonstrated clear, decisive plans. This should
+give innovators the foundations to work
+on new products and services related to
+climate change, transportation, biotech,
+artificial intelligence, and blockchain technologies. Security innovators have a unique
+
+set of skills that could aid in a company’s
+approach to privacy and safeguarding. One
+of the biggest challenges companies face
+is a lack of creativity about adversaries or
+next-order outcomes. For example, before a
+company launches a new product, it should
+host a workshop to investigate possible
+ways the product could unintentionally
+bring harm to the business.
+It’s clear that China intends to lead the
+world in many areas of R&D, including AI,
+biotech and synthetic biology, pharmaceuticals, transportation, climate change
+mitigation, and space. In recent years,
+China launched new efforts to repatriate
+researchers from US and European posts.
+But tech companies are also poaching
+talent from academic departments as well
+as other companies. With so much competition, companies should develop strategies
+for R&D team acquisition and retention.
+Security should be top of mind, but within
+many companies, R&D units struggle to
+keep pace with the changing technology
+landscape. This can result in pet projects
+
+taking up too much time without leading to
+desired results—or moving without consideration of security or privacy implications.
+The cadence of R&D teams must be adjusted to prioritize privacy and security.
+As we build our new normal—working from
+anywhere, managing security breaches,
+adapting to patchwork regulation—adaptability will be key to every organization’s
+ability to thrive and succeed.
+
+© 2023 Future Today Institute
+
+Government, Policy & Security
+
+INDUSTRY
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+How do the
+trends change our
+perspective on risk?
+
+9
+Can we develop
+actionable, longterm plans that
+will withstand
+leadership
+changes?
+
+56
+
+2
+Is our organization
+appropriately
+resourced to
+prevent against
+and respond to
+cyberattacks?
+
+10
+
+3
+Does our team
+have an expansive
+viewpoint on
+emerging threats
+and attack
+surfaces?
+
+4
+What aspects of our
+business make us a
+target for attacks?
+Will our company’s
+values, or the way
+we interact with
+consumers, attract
+the ire of hactivists?
+
+5
+As lawmakers,
+are we carefully
+considering the
+downstream
+impacts of
+proposed
+regulations?
+
+6
+As technology
+evolves, how will
+our local, state,
+provincial, countrylevel regulations
+keep pace without
+stifling innovation
+and growth?
+
+7
+If our company
+operates in markets
+where a patchwork
+of regulations is
+likely to persist, how
+can we adapt?
+
+8
+How can we play
+a role in shaping
+policy related
+to our industry’s
+evolution?
+
+Have we developed
+scenarios to
+understand possible
+second- and thirdorder impacts?
+
+How can we
+develop the
+knowledge,
+experience, and
+talent to leverage
+these trends?
+
+© 2023 Future Today Institute
+
+Space
+
+INDUSTRY
+
+SPACE TRENDS SUMMARY
+Tech breakthroughs
+that enable
+humans to explore
+space like never
+before are leading
+to a new space
+economy, but they
+also create political
+challenges.
+
+Key Insights for 2023
+Access to space, by private citizens or commercial entities, is becoming more affordable, and
+cost is just one of the barriers to entry that are
+lowering for both public and private institutions.
+As accessibility increases, previously unrepresented nations are entering the space race, as
+well as startups and enterprises worldwide. This
+increasing accessibility is resulting in surprising
+collaborations.
+Nations with like-minded initiatives are setting
+their sights on space, resulting in the formation
+of alliances including space blocs. As more
+blocs form and space exploration continues,
+existing treaties governing space are proving
+increasingly obsolete.
+Geopolitical tensions are beginning to prove
+consequential in space. China once considered
+Russia an important collaborator for future
+moon projects and missions, but as sanctions
+resulting from Russia’s invasion of Ukraine have
+impeded progress, China is looking for new
+long-term partners.
+
+leave the planet and use satellites and telecommunications devices that impact our experience
+on Earth. The need for its removal provides
+revenue opportunities for the space economy.
+Even with a reduction in the expense of sending payloads—the spacebound crafts, cargo,
+or people necessary for development beyond
+Earth—costly resource production and in situ
+manufacturing will be required for long-term
+space missions to succeed. One example might
+be creating oxygen from Mars’ carbon dioxide–
+rich atmosphere. Opportunities for resource extraction and mining, as well as in situ processes
+for harvesting materials, will drive revenues for
+the future space economy.
+The ability to manufacture in micro- and zero-gravity environments—areas in space with
+less gravity than Earth, or where gravity is
+completely absent—will become a competitive
+advantage. Products and services that employ
+micro- and zero-gravity dynamics, such as
+orbital labs that grow stem cells, will create new
+uses.
+
+Space junk creates concerns not only as waste
+but as clutter that can endanger or inhibit
+further development—it threatens our ability to
+
+58
+
+© 2023 Future Today Institute
+
+Space
+
+INDUSTRY
+
+HOW TO PREPARE
+Companies not explicitly
+working within the space
+economy should still monitor
+trends in this report. Future
+Today Institute research
+suggests that emerging
+developments over the next
+decade will intersect with a
+host of adjacent industries,
+from agriculture to energy
+to telecommunications and
+beyond.
+UNCERTAINTY AROUND BAD ACTORS
+
+Militant acts by fractious and implacable
+governments are increasingly threatening
+the operation of satellites and megaconstellations. Hostilities materialized in 2022
+relating to commercial satellites used to aid
+Ukraine against the invasion by Russia. Defense initiatives are being enacted to stave
+
+59
+
+What should your organization do now to prepare for these trends?
+off the potential threats of these bad actors,
+but little can be done proactively.
+ADHERING TO COMPLIANCE AND
+REGULATORY CHANGES
+
+As authorities emphasize judicious action
+regarding the use of satellites and payloads
+entering orbit, strict regulations, especially
+if enacted quickly, could disrupt operations.
+Startups with business plans relying on
+megaconstellations for space-related activities and commerce could be caught off
+guard by caps on the number of satellites
+entering orbit, or by regulator restrictions
+on uses.
+OPPONENTS TO SPACE-BASED INNOVATIONS
+
+Vocal critics of space exploration and
+innovation abound. They suggest we focus
+first on Earth-based challenges, rather than
+expediting resources to impact our experience in space. If such sentiments prove
+contagious, they could decrease governmental interest, affecting funding opportunities for startups and rendering our space
+aspirations futile.
+
+BEING UPENDED BY SMALL BUT MIGHTY
+PLAYERS
+
+Space’s democratization should appear as
+an unbounded opportunity, but a failure by
+traditional entities to take advantage of it
+could result in smaller, more nimble startups and organizations beating their competition to the chase. Spending time in space
+will require applications from industries
+present on Earth. Organizations must act
+quickly or risk missing out on first-mover
+advantages.
+OPPORTUNITIES FOR GROWTH AND
+TRANSFORMATION
+
+Our analysis reveals unique opportunities
+for organizations to unlock innovation and
+growth.
+Devising processes for manufacturing products in micro and zero gravity will result in
+competitive advantages. By employing the
+inner-dynamics of reduced gravity, industries can fabricate items at higher quantities
+or with minimal constraints. Spillover effects
+of space technologies have been an indus-
+
+try hallmark for decades, and organizations
+will find opportunities to apply the solutions
+they offer here on Earth. With proper application, existing technologies can have
+monumental impacts.
+For example, mounting concerns resulting
+from space junk accumulation create revenue opportunities for companies centered
+on cleaning up messes. Both the public
+and private sectors will have a growing,
+vested interest in keeping the orbit free
+from dangers associated with the detritus.
+Meanwhile, extraction of local resources
+and in situ processing will be critical to
+survival in space and on new planets. Organizations that can provide necessary tools
+and solutions for mining and manufacturing
+will benefit. Provisions may include greenhouses for growing food, protein-producing bioreactors, or implements to unearth
+resources from regolith.
+
+© 2023 Future Today Institute
+
+Space
+
+INDUSTRY
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+What new
+opportunity space
+can we create from
+the phenomenon
+of micro and zero
+gravity? (The
+answer might
+concern an aspect
+of production,
+or the offering
+of a service to
+be experienced
+firsthand.)
+
+60
+
+2
+How can a
+space factory
+or lab give us an
+advantage over our
+competitors?
+
+3
+Are we prepared
+for the existential
+risk that the Kessler
+Effect could cause
+for services we use
+in our daily lives,
+such as GPS and
+telecommunications? What backup
+options do we
+need in place when
+space debris interferes with essential
+systems?
+
+4
+What new service
+and business
+models can be
+developed as
+sending payloads
+to space becomes
+more affordable?
+
+5
+How can we use
+satellite data
+and associated
+insights? Can
+we find better,
+alternative ways to
+serve our customers
+and help them
+understand the
+planet we live on?
+
+6
+How will the newest
+discoveries made
+via the JWST inform
+our worldviews and
+R&D investments?
+
+7
+What plans can
+we put in place to
+prepare to serve
+a multi-planetary
+species?
+
+8
+How will our
+activities in space
+affect and inform
+our geopolitical
+relationships on
+Earth?
+
+© 2023 Future Today Institute
+
+Supply Chain & Logistics
+
+INDUSTRY
+
+SUPPLY CHAIN AND LOGISTICS TRENDS SUMMARY
+Geopolitical
+and workforce
+challenges crippled
+the supply chain
+in recent years,
+but advancing
+technologies could
+enable a more
+resilient future.
+
+Key Insights for 2023
+VISIBILITY/TRACK AND TRACE
+
+Values-alignment driven consumerism and localism are disrupting where goods come from and
+require transparency in how they are produced.
+Real-time, end-to-end visibility through the use
+of digital passports can prevent bottlenecks
+through customs and the passing of products
+from one source to another.
+DIGITIZED MANAGEMENT
+
+Warehouse space is a premium and should be
+utilized to its fullest with automation and management systems.
+AI needs to be utilized beyond creating predictive analytics and should be tapped into to assist
+in decision making.
+SHORTENING THE SUPPLY CHAIN
+
+The utilization of crowd-sourced delivery platforms will continue as consumers continue to
+expect faster and more frictionless delivery.
+Micro-fulfillment centers are a consideration
+
+62
+
+when looking for more urban infill opportunities
+and for bringing goods closer to the consumer.
+CLIMATE SUSTAINABILITY
+
+Climate change, sustainability, and ESG are
+creating new challenges for companies to thrive
+in a world where consumers are determined to
+reduce their carbon footprint.
+Packaging might be the next big wave in opportunities for creating a more sustainable supply
+chain, through the use of reusable and self-healing materials.
+LABOR DEVELOPMENT, UPHEAVALS, AND
+SHORTAGES
+
+a buying spree for a particular product, causing
+unpredictable runs that manufacturers may not
+be prepared for.
+The rise in nationalism and global conflict are
+creating new challenges for transportation and
+logistics to overcome.
+RESILIENCY THROUGH DIVERSIFICATION
+
+Diversifying procurement can alleviate weaknesses in the global supply chain by considering
+nearshoring or reshoring.
+New infrastructure may be needed to diversify
+routes as ports become smarter about preparing
+for future disruptions.
+
+Worker attraction and retention is achievable
+through upskilling and reskilling opportunities,
+especially when paired with new tech certifications that automation requires.
+Continue to watch union action and difficult
+contract negotiations as they threaten to create
+new disruptions.
+GLOBAL SUPPLY CHAIN DISRUPTIONS
+
+Disruptions are coming from unexpected
+sources, for instance when social media spurs
+
+© 2023 Future Today Institute
+
+Supply Chain & Logistics
+
+INDUSTRY
+
+HOW TO PREPARE
+The talent pool is shrinking in many industries. Finding skilled labor to fill empty roles
+is harder, and many experienced supply
+chain and logistics workers are retiring.
+Employing cobots and automation can be a
+double-edged sword, as workers may prefer
+to avoid companies that utilize these solutions. Training programs and skills development can develop and attract new talent,
+and retain the current workforce.
+With consumers’ demand for transparency
+growing, tracking the end-to-end loop can
+be a granular and challenging exercise.
+With new procurement and sourcing under
+consideration to fulfill environmental, social,
+and governance (ESG) goals, it presents
+an opportunity to improve the tracking of
+resource usage. Another challenge will be
+where to report the information gathered
+that will be of most relevance to the company, the consumer, and governments.
+
+63
+
+What should your organization do now to prepare for these trends?
+The pandemic, the war in Ukraine, and the
+process of decoupling with China highlight
+vulnerabilities in the supply chain and the
+need to prepare. Digital twin modeling can
+help predict such events, but acquiring the
+data to set up the model is challenging.
+These models should take into account
+global climate change disruption as well.
+Last-mile solutions are among the most
+challenging for the logistics industry.
+Consumers have different expectations,
+depending on the market or the specific
+goods. Social media may help prioritize
+which products need to be first up on the
+last-mile list. Manufacturers can use this
+data to decide where to invest in micro-fulfillment or additive manufacturing warehouses within the urban infrastructure.
+Future Today Institute research suggests
+that the future of manufacturing and the
+supply chain will be positively influenced by
+emerging technology. Opportunity spaces
+include:
+
+VR TRAINING
+
+NEARSHORING AND RE-GLOBALIZATION
+
+Training in development of skills is no longer location dependent with virtual reality
+training modules, opening opportunities
+to tap into a global talent pool. Companies
+need to examine current training modules and invest in converting them into
+VR training modules, which could then be
+licensed to other businesses to generate
+new revenue.
+
+Re-globalization and nearshoring both offer
+the prospect of stability through diversification. Finding the right balance between
+both options means understanding which
+global conflicts in which regions pose the
+most risk or opportunity. Monitoring these
+initiatives over time could guide a strategy
+for flexible manufacturing or access to new
+talent markets.
+
+SMART CONTRACTS
+
+HUB-AND-SPOKE AUTONOMOUS MODELS
+
+Smart contracts can be drawn up to determine when certain conditions are met,
+such as meeting ESG goals, before they go
+into effect. Since these contracts are stored
+on a blockchain, they can provide track
+and trace solutions when data is requested. Legal implications will be the first step
+to begin tackling where and when to use
+smart contracts.
+
+When considering the last mile, human and
+autonomous options are key considerations.
+As autonomous transportation becomes
+more viable, there is an opportunity to restructure the human talent pool to fulfill the
+last-mile delivery needs. This could become
+a marketing strategy for employees by allowing them to work closer to home. Logistics teams need to become well-versed in
+autonomous transportation to be prepared
+for industry changes.
+
+© 2023 Future Today Institute
+
+Supply Chain & Logistics
+
+INDUSTRY
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+How should
+we prepare for
+ESG disclosure
+requirements along
+our supply chain?
+
+9
+What emerging
+countries offer
+re-globalization
+potential for
+new sources and
+procurement of
+goods?
+
+64
+
+2
+What training
+modules can be
+digitized for faster
+learning?
+
+3
+Where should
+autonomous
+enhancements be
+incorporated into
+the manufacturing
+process?
+
+4
+What decisions
+can we allow to be
+made autonomously
+within the supply
+chain and logistics
+framework?
+
+5
+Is the company
+prepared for a
+viral social media
+event that could
+affect product
+availability?
+
+6
+What is our risk
+tolerance given
+extreme weather
+events and our
+transportation
+partners?
+
+7
+Where do we
+need real-time
+monitoring for our
+supply chain?
+
+8
+Where we are
+over dependent
+on imports from
+countries that are
+near conflict-risk
+countries?
+
+10
+What digital twin
+models would best
+serve us for being
+better prepared
+for conflict,
+congestion, crisis,
+etc.?
+
+© 2023 Future Today Institute
+
+Entertainment
+
+INDUSTRY
+
+ENTERTAINMENT TRENDS SUMMARY
+Experiences
+are moving to
+a collaborative
+model, opening
+up the opportunity
+for repeated but
+not repetitive
+engagement with
+entertainment
+franchises.
+
+Key Insights for 2023
+STREAMING
+
+Power is shifting from content platforms to influencers as the latter’s options for sharing content
+increases and new opportunities to create revenue streams expand.
+Tapping into a global talent pool will become
+easier than ever with a range of new tools that
+expand collaboration for hybrid teams.
+With the introduction of haptic devices, storytelling will engage all of the senses, not just vision
+and sound.
+Storytelling will venture into personalization.
+Instead of creating a finite, linear product, different story modules will be combined in different
+ways.
+Crowdsourced content, where viewers collectively decide what happens next, is gaining
+traction as a mainstream genre of narrative.
+Digital twins of celebrities will start to expand
+the earning potential of their real-life counterparts.
+
+66
+
+This year, AI is moving from supporting to leading the creative process—writing scripts, creating music, and directing.
+As dubbing becomes more automated, AI will
+translate and voice text and adjust the lip movements of actors to fit different languages.
+One-stop-shop video creation software is scaling
+the production of marketing materials and might
+soon make its way into narrative storytelling.
+THE ARTS
+
+The NFT market has cooled. Uses in the visual
+art ecosystem are still elusive, but relevance
+might expand in gaming, as digital tokens can be
+used to grant membership or unlock experiences.
+Intellectual property rights are not ready to sufficiently address new forms of entertainment or
+the globalization of content.
+Performance spaces are turning into multiuse
+venues that not only accommodate different
+audience sizes and performance needs but also
+house shops, food and drink establishments, and
+museums.
+
+Theater productions are experimenting with
+different forms of audience participation and
+personalization, blurring the lines between video
+game, live performance, and film.
+Real-time holographic projections will open up
+the possibility of live experiences occurring in
+multiple places at once.
+Virtual reality concerts will start to move from
+celebrity guest-stints in video games to standalone experiences.
+Immersive art is delivering replicable works
+whose value lies in the cultural momentum they
+create, not their singularity.
+AI art—still and video—is moving into the mainstream, raising questions about copyright issues
+and what makes art valuable.
+Digital art has therapeutic effects, and health
+applications are emerging.
+AMUSEMENT PARKS
+
+Virtual reality rides in theme parks are morphing
+from passive, isolating experiences to interactive, social ones where guests can move freely
+through a space.
+
+© 2023 Future Today Institute
+
+INDUSTRY
+
+Entertainment
+
+ENTERTAINMENT TRENDS SUMMARY
+Smart contracts can enable demand-based bidding systems for products such as line-skipping
+passes, creating real-time optimization for guest
+experiences at theme parks.
+The classic amusement park experience is
+expanding as companies produce not only small
+scale pop-ups and mega parks but also begin to
+integrate some of that imaginary-world feeling
+into consumers’ daily lives via digital interactions.
+Big entertainment players such as Disney and
+Universal aim to link their streaming with their
+theme park operations to provide holistic, personalized experiences.
+Entertainment and education merge in museums, zoos, and other institutions that use
+augmented reality (AR) and VR to add interactive
+and gamified elements to their exhibits.
+Personalized AR and VR elements in theme
+parks not only increase the realism of the imaginary world and pull the visitor deeper into the
+narrative; the technology also encourages repeat
+visits by making each individual experience of an
+attraction unique.
+
+67
+
+© 2023 Future Today Institute
+
+Entertainment
+
+INDUSTRY
+
+HOW TO PREPARE
+RISKS
+ESCALATED CYBER RISKS
+
+Increased digitization often brings with
+it the risk of cyberattacks. As more core
+processes go digital, the implications
+become correspondingly more severe. If a
+digital celebrity is hacked, the damage to
+the brand can forever hamper its earning
+potential. As AI molds storylines to personal
+tastes, attacks can influence that experience and turn it into a harmful or traumatic
+experience for the viewer, whether the
+episode occurs on a streaming platform or
+in a theme park. When technology evolves,
+it is crucial to build and evolve security at
+the same time.
+DIGITAL ABUNDANCE
+
+A downside of digitization is its ease of replication and the potential for overexposure
+of the market to a particular asset. A large
+part of the value proposition of entertainment is the rarity and exceptionalism of its
+talent—there is only one Mindy Kaling or
+one Kathryn Bigelow. If technology enables
+
+68
+
+What should your organization do now to prepare for these trends?
+omnipresence of talent and an exponential
+increase in production of assets, it may result in market fatigue and loss of interest.
+MEDIOCRE STORYTELLING
+
+Democratization of storytelling might
+empower audiences in new ways, but
+majority opinions do not necessarily create
+the most engaging stories. Taking risks,
+making unusual choices, and providing
+unique perspectives are crucial ingredients
+for excellent storytelling, a gift not given to
+everyone—and an improbable outcome of
+crowdsourced decisions. After the novelty
+factor of co-authoring narratives wears off,
+we might wake up to a landscape of mediocre storytelling that is not able to provide us
+the emotional engagement we crave.
+A NEW VALUE PROPOSITION
+
+The question remains how humanity will
+respond to content created by AI. Will
+audiences flock to digital twins of their
+favorite celebrities? How will we relate to
+and value stories that are created by nonhumans? Storytelling has been used since
+
+the beginning of time to share experiences
+and create connections. Will the perceived
+value of synthetically created content, and
+as a result the interest in and willingness to
+spend money on that content, decline?
+
+OPPORTUNITY SPACES
+GLOBAL STORYTELLING
+
+New collaborative tools provide the opportunity to employ a global talent pool that
+has been trained thanks to ever-widening
+access to digital creator tools. Such an
+abundance of diverse talent brings with
+it the opportunity for nuanced, localized
+storytelling that deepens access to and
+understanding of different cultures, demographics, and marginalized communities by
+creating shareable experiences.
+DEFINING NEW ROLES & RESPONSIBILITIES
+
+As AI takes center stage in the creation
+process, it shifts responsibilities for those
+who have previously been in control: directors, producers, designers, and artists. New
+skills need to be developed that empha-
+
+size creative direction, supervising, and
+adjusting, rather than doing the actual act
+of creating. This shift will also change the
+power dynamics of an industry traditionally driven by the idiosyncratic visions of its
+most successful creative talents. Whoever
+is able to define the new paradigm and set
+up corresponding processes and business
+models will set the bar for the rest of the
+industry to follow.
+DECONSTRUCTED NARRATIVES CREATE
+NEW INCOME STREAMS
+
+As storytelling evolves from finite, linear
+products to responsive environments that
+are customizable by the audience, every
+story has the potential to turn into a franchise with long-lasting earning potential.
+Deconstructed narratives free up collaborative iteration between the audience and the
+originator of the idea, and provides a canvas
+for exploration. Every engagement with the
+content can provide a singular experience
+for the viewer, resulting in enduring curiosity about the possibilities—and willingness
+to spend to experience them.
+
+© 2023 Future Today Institute
+
+Entertainment
+
+INDUSTRY
+
+HOW TO PREPARE
+
+What should your organization do now to prepare for these trends?
+
+SCALING PERSONALIZED CONTENT
+
+If entertainment companies can access
+more data about their consumers—not just
+the data from within their own ecosystems
+but also data from, say, Google or Facebook—they can begin to create personalized experiences at scale. These would be
+limited primarily by the capabilities of the
+tools creating the experiences—for instance, the ability for AR and VR systems to
+provide real-time responsiveness, or of AI to
+reassemble and customize content according to a viewer’s profile. Beyond that, the
+biggest limitation will be the entertainment
+industry’s own ability to produce enough
+modular content to customize.
+
+69
+
+© 2023 Future Today Institute
+
+Entertainment
+
+INDUSTRY
+
+KEY QUESTIONS FOR YOUR TEAM
+1
+How can you
+ensure the safety
+of future digital
+assets? As content
+evolves from a
+finished product
+to a personalized,
+ever-changing
+experience, how
+can you monitor and
+prevent unwanted
+alterations from
+third parties and
+cyberattacks?
+
+70
+
+2
+What changes do
+you need to make to
+your organization to
+create interactive,
+modular content
+in addition to a
+linear storytelling
+product?
+
+3
+How would digital
+entertainers, such
+as digital twins of
+real celebrities or
+digital originals,
+impact your
+business model?
+
+4
+Will generative AI,
+such as Dall-E, Bard
+or ChatGPT, disrupt
+your business,
+and how can you
+leverage it to your
+advantage?
+
+5
+How can you begin
+to pave the way
+for blockchain
+integration into your
+operations to make
+processes more
+efficient, safe, and
+transparent?
+
+6
+There is a tension
+between the desire
+for personalized
+experiences and the
+power of communal
+experiences. Have
+you determined
+what your customer
+prefers? And how
+can you optimally
+combine these
+approaches in your
+product?
+
+7
+What will the
+average attention
+span be in five
+years, and how can
+you adjust your
+product to optimize
+it for consumption?
+
+8
+How can the
+implementation of
+hybrid, modifiable
+physical spaces
+best enhance user
+experiences?
+
+© 2023 Future Today Institute
+
+2023
+
+2023 Tech Trends Report Executive Summary
+
+METHODOLOGY
+Future Today Institute conducts in-depth qualitative and quantitative
+research throughout the year to identify emerging trends. We review
+patent and trademark filings, pre-print and published scientific papers, investment rounds, online search trends, macroeconomic data,
+publications from governments worldwide, news mentions, influencer
+posts and other sources, and we use a proprietary system to identify
+patterns, which are then grouped into nodes and evaluated using a set
+of standardized indicators. Qualified trends are further scored for their
+trajectory, momentum and timing. Additionally, we harness the deep
+subject matter expertise of our Future Today Institute network, leading
+to valuable insights about the topics we cover.
+In continuous publication since 2007, Future Today Institute’s annual report includes maturing and emerging trends grouped into two
+categories: industry and technology. Industry trends reflect the ways in
+which technology is shaping the future of an entire industry. Technology
+trends are specific developments within one arena, such as artificial
+intelligence. Covering a wide range of technologies across industry
+sectors creates a holistic view of change and provides leaders with a
+clear understanding of their potential impact. Trends are published as
+individual Industry and Technology reports, as well as in one combined
+report with all of our research.
+Monitored regularly, trends help executives recognize emerging threats
+and opportunities in the near-term and enable them to develop perspectives, strategies and plans for the future.
+
+71
+
+Seven-Step Forcasting Funnel
+
+01
+
+Signals
+SIGNALS & LONG-TERM TRENDS
+
+What is
+INFLUENCING
+the future?
+
+02
+
+Trends
+03
+
+Uncertainties
+GLOBAL MACRO SCENARIOS
+
+What is
+THE future?
+
+04
+
+Scenarios
+05
+
+Opportunities/Threats
+and Rehearsing
+STRATEGIC
+
+What is
+YOUR ORG’S
+future?
+
+06
+
+Planning
+07
+
+Actioning
+
+© 2023 Future Today Institute
+
+2023
+
+2023 Tech Trends Report
+
+AUTHORS
+ARTIFICIAL INTELLIGENCE
+Amy Webb
+Founder and CEO
+Annamalai Chockalingam
+Senior Expert Advisor
+
+WEB3
+Melanie Subin
+Managing Director
+
+METAVERSE
+Sara M. Watson
+Independent Analyst
+Marc Palatucci
+Senior Expert Advisor
+
+BIOENGINEERING
+Amy Webb
+Founder and CEO
+
+CLIMATE & ENERGY
+Christina von Messling
+Senior Foresight Consultant,
+Europe Lead
+
+72
+
+MOBILITY, ROBOTICS
+& DRONES
+
+GOVERNMENT, POLICY
+& SECURITY
+
+Nick Bartlett
+Director
+
+Amy Webb
+Founder and CEO
+
+COMPUTING
+
+SPACE
+
+Sam Jordan
+Foresight Consultant
+
+Ryan Hogan
+Foresight Consultant
+
+NEWS & INFORMATION
+
+Sam Jordan
+Foresight Consultant
+
+Sam Guzik
+Senior Expert Advisor
+
+FINANCIAL SERVICES
+Kriffy Perez
+Senior Expert Advisor
+Melanie Subin
+Managing Director
+
+HEALTH CARE & MEDICINE
+Amy Webb
+Founder and CEO
+
+SUPPLY CHAIN & LOGISTICS
+Mark Bryan
+Senior Foresight Manager
+
+ENTERTAINMENT
+Christina von Messling
+Senior Foresight Consultant,
+Europe Lead
+
+CONTRIBUTORS
+Chief Content Officer
+JON FINE
+Creative Director
+EMILY CAUFIELD
+Designer
+ERICA GRAU
+Contributor
+TOM WANG
+Editors
+CAROLE BRADEN
+TOM BRADY
+MEGAN CREYDT
+TOM FOSTER
+Copy Editor
+SARAH JOHNSON
+Director of Operations
+CHERYL COONEY
+
+© 2023 Future Today Institute
+
+2023
+
+2023 Tech Trends Report Executive Summary
+
+ABOUT
+FUTURE TODAY
+INSTITUTE
+73
+
+© 2023 Future Today Institute
+
+2023
+
+2023 Tech Trends Report Executive Summary
+
+ABOUT FUTURE TODAY INSTITUTE
+Founded in 2006, Future Today Institute helps leaders and their
+organizations navigate turbulent times by reducing uncertainty,
+identifying existential threats, leveraging critical emerging
+technologies, and identifying opportunities for growth.
+We help organizations lead into the future. Our consultants
+work with executives and their teams to define plausible futures
+and develop executable strategies. Combining deep industry
+knowledge, rich creativity and rigorous analysis, we make
+teams confident in taking meaningful action.
+As the leading strategic foresight and futures management
+consultants to executive leadership teams worldwide, FTI’s
+data-driven, applied research methodology identifies trends,
+calculates their impact, and through descriptive scenarios,
+reveals how they will disrupt business, government and society.
+Together with our clients and partners, FTI is helping leaders
+achieve their preferred futures. Our pioneering, data-driven
+forecasting methodology and tools empower leaders to make
+better decisions about the future, today.
+
+74
+
+CONTACT US
+
+For an introductory conversation to learn how Future Today
+Institute can assist your organization with its long-term
+strategic planning and foresight needs, please contact
+
+inquiries@futuretodayinstitute.com
+futuretodayinstitute.com
++1 267 342 4300
+
+SOCIAL
+TWITTER
+
+@FTI
+
+LINKEDIN
+
+@Future-Today-Institute
+
+FACEBOOK
+
+@FutureTodayInstitute
+
+INSTAGRAM
+
+@futuretodayinstitute
+
+© 2023 Future Today Institute
+
+2023
+
+2023 Tech Trends Report Executive Summary
+
+DISCLAIMER
+The views expressed herein are the authors’ own and are not representative of the greater organizations in which they have been employed.
+The names of companies, services, and products mentioned in this
+report are not necessarily intended as endorsements by Future Today
+Institute or this report’s authors.
+Future Today Institute’s 2023 Tech Trends Report relies on data, analysis,
+and modeling from a number of sources, which includes sources within
+public and private companies, securities filings, patents, academic
+research, government agencies, market research firms, conference presentations and papers, and news media stories. Additionally, this report
+draws from Future Today Institute’s previous EMT Trends Reports, FTI
+Trend Reports, and newsletters. FTI’s reports are occasionally updated
+on the FTI website.
+FTI advises hundreds of companies and organizations, some of which
+are referenced in this report. FTI does not own any equity position in any
+of the entities listed in this presentation.
+Any trademarks or service marks used in this report are the marks of
+their respective owners, who do not endorse the statements in this
+report. All rights in marks are reserved by their respective owners. We
+disclaim any and all warranties, expressed or implied, with respect to
+this report.
+
+75
+
+© 2023 Future Today Institute
+
+2023
+
+2023 Tech Trends Report Executive Summary
+
+USING AND SHARING THE MATERIAL IN THIS REPORT
+You are free to:
+
+You may not:
+
+Download the materials for your or your
+organization’s non-commercial use.
+
+Use the materials for any commercial
+purposes, which includes: selling, licensing
+or charging for products or services that use
+the materials.
+
+Use the assets with full attribution to Future
+Today Institute using the following language:
+“This material is copyrighted by Future Today
+Institute and licensed under the Creative
+Commons 4.0 International License (CC BYNC-ND 4.0).”
+Use assets in a reasonable manner, but not
+in any way that suggests that Future Today
+Institute endorses you or your use.
+
+Publish the materials in a book or upload to
+a website or intranet without prior written
+permission from Future Today Institute.
+Remix, transform or build upon the material
+without giving appropriate credit to Future
+Today Institute as the originator of the work
+using the following language: “This material
+is adapted from original work copyrighted
+by Future Today Institute and licensed under
+the Creative Commons 4.0 International
+License (CC BY-NC-ND 4.0).”
+Assert a relationship with or endorsement
+from Future Today Institute.
+
+76
+
+© 2023 Future Today Institute
+
+2023
+
+2023 Tech Trends Report Executive Summary
+
+FUTURE TODAY INSTITUTE’S 2023 TECH TREND REPORT
+Our 2023 edition includes nearly 700 trends, which are published individually in 14 volumes and as one comprehensive report with all trends included.
+
+Download all sections of Future Today Institute’s 2023 Tech Trends report at http://www.futuretodayinstitute.com/trends.
+
+77
+
+© 2023 Future Today Institute
+
+
